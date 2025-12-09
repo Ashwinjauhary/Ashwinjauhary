@@ -30,7 +30,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=radical&count_private=true&include_all_commits=true)" alt="GitHub Stats" />
   <img src="https://camo.githubusercontent.com/2fc7a8c48fe79026310f4966af71d5ceb6534a69e0d15b5ab2f1d1b1d8d7790e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d41736877696e6a617568617279267468656d653d7261646963616c26686964655f626f726465723d74727565" alt="GitHub Streak Stats" />
 </p>
 
