@@ -1,82 +1,62 @@
-<h1 align="center">🚀 Ashwin Jauhary</h1>
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=700&color=FF4D4D&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+and+Storytelling+Creator;Cinematic+Designer;Founder+of+Epicverse+%26+Netrakaal;I+Build+Experiences%2C+Not+Just+Websites." /> </p>
-<h2 align="center">🌑 My Identity</h2>
-<p align="center">A mysterious digital creator blending <b>technology</b>, <b>dark design</b>, <b>storytelling</b>, and <b>AI artistry</b>.<br/> I build products that feel alive — cinematic, emotional, atmospheric.</p>
-<h2 align="center">🔥 What I Do</h2>
-🚀 Verbotics — Multilingual Voice AI Chatbot Platform
-🎬 Netrakaal — India's Darkest Hindi Horror Universe
-🏪 E-Commerce Platform — Razorpay × React × Node × Mongo
-📝 Epic Todo 2.0 — Themes, Emojis, Stats Dashboard
-🎭 Cinematic Worlds — Horror, Mythology, 3D Ultra-Realism
-🌐 Portfolio Website — Dark, mysterious, psychological design
-<h2 align="center">🧠 Tech Stack</h2>
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,nodejs,express,mongodb,postgres,tailwind,bootstrap,git,github,figma,firebase,vercel&perline=10" /> </p>
-<h2 align="center">📦 Tools & Specialties</h2>
+<h1 align="center">👋 Hey, I’m <span style="color:#ff4d4d;">Ashwin Jauhary</span>
+<p align="center">Developer • Designer • Builder • Storyteller • Creator</p>
+<h2 align="center">🔥 A Multi-Domain Creator Who Builds Things That People Remember</h2>
+<p align="center"> I build full-stack apps, animated cinematic stories, high-end websites, horror universes, and AI-powered tools.<br/> I love mixing **technology, design, storytelling, AI, and real-world problem solving**. </p>
+<h2 align="center">🖼️ My Design Identity</h2>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=800&color=FF4D4D&center=true&vCenter=true&width=800&lines=Dark+Humor.+Mystery.+Depth.;Cinematic+Storytelling.;Futuristic+Clean+Design.;AI-Driven+Creation.;Building+Experiences%2C+Not+Just+Websites." /> </p>
+<h2 align="center">💼 What I’m Working On</h2>
+🚀 Verbotics – Multilingual Voice AI Chatbot Platform
+🎥 Netrakaal – Hindi Horror Storytelling YouTube Universe
+🏪 Full E-Commerce Platform – Razorpay, JWT, Cloudinary
+📝 Epic Todo App 2.0 – Themes, emojis, analytics
+🎬 Peeche Mat Mudna – Hyper-Realistic Horror Short Film
+🧠 100 Physical Product Business Ideas PDF
+🌐 Portfolio Website – with a mysterious, dark, psychological theme
+<h2 align="center">⚡ Skills & Tools</h2>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,next,angular,nodejs,express,mongodb,git,github,bootstrap,tailwind,figma,redux,vercel,firebase" /> </p>
+<h2 align="center">📈 GitHub Stats</h2>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=radical&hide_border=true" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinjauhary&theme=radical&hide_border=true" height="180" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinjauhary&layout=compact&theme=radical&hide_border=true" height="180" /> </p>
+<h2 align="center">🎬 Cinematic Projects (My Favourite)</h2>
+🎭 Peeche Mat Mudna — DWAAR
 
-🎨 Cinematic UI/UX
+Hyper-realistic horror episode with AI-enhanced scenes.
 
-🧠 AI Prompt Engineering
+🐭 Dominos × Tom & Jerry Collaboration
 
-🏗️ Full-Stack Development
+3D ultra HD branded image concepts.
 
-🎬 Storyboarding & animated scene design
+🕉️ Divine Hanuman Project
 
-🧮 Product architecture
+Hyper-realistic 3D deity portraits.
 
-⚡ High-performance backend systems
+<h2 align="center">🧩 My Top Dev Projects</h2>
+🔹 Recipe Browser (Angular)
 
-<h2 align="center">📊 GitHub Stats</h2>
+Modern UI + search + favorites
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=Ashwinjauhary&theme=radical&hide_border=true" height="180" />
-</p>
+🔹 Interactive Detective Crime File
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ashwinjauhary&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
+A web mystery puzzle game experience
 
-<h2 align="center">🎥 Cinematic Creations</h2>
-🔥 Peeche Mat Mudna – Episode 1: DWAAR
+🔹 Browser-in-Browser Simulator
 
-Ultra-realistic Hindi horror universe.
+Fake tabs, inspector, downloads, console—all in JS
 
-🐭 Dominos × Tom & Jerry 3D Collaboration
+🔹 Habit Tracker Backend
 
-Branded cinematic scenes.
+PostgreSQL + streaks + leaderboard
 
-🕉️ Hanuman Ultra-Realistic Portrait Series
+<h2 align="center">🌐 Social + Connect</h2>
+<p align="center"> <a href="https://github.com/Ashwinjauhary"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> </p>
+<h2 align="center">🎉 Fun Facts</h2>
 
-3D divine illustrations.
+I love mixing mythology + horror + tech
 
-<h2 align="center">🧩 Featured Projects</h2>
-🔹 🔍 Browser-in-Browser Simulator
+I can design full cinematic worlds
 
-A fake browser with tabs, console, errors, inspector — all coded in JS.
+I write detailed animated scripts
 
-🔹 📖 Interactive Detective Crime File
+I build tools that look AAA-level
 
-A mystery puzzle experience website.
-
-🔹 🍲 Recipe Browser (Angular)
-
-Search, cards, ingredients preview, favorites, responsive UI.
-
-🔹 📈 Habit Tracker Backend
-
-Track streaks, daily logs, leaderboards.
-
-<h2 align="center">🌐 Connect With Me</h2>
-<p align="center"> <a href="https://github.com/Ashwinjauhary"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> </p>
-<h2 align="center">✨ Fun Facts</h2>
-
-My creations mix dark humor, horror, spirituality, and technology
-
-I create AI-powered cinematic worlds
-
-I’m obsessed with clean UI + emotional storytelling
-
-I prefer building things that feel alive and immersive
-
-<h2 align="center">💬 Final Line</h2>
-<p align="center"><b>“I don’t follow trends. I create experiences.”</b></p>
+<h2 align="center">✨ Final Line</h2>
+<p align="center"><b>“I don't build websites. I build experiences people remember.”</b></p>
