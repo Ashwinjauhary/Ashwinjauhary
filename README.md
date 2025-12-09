@@ -1,57 +1,62 @@
-# Hi, I'm Ashwin 👋
-**BCA Student | MERN Developer | Graphic Designer | Voice Artist | Gen AI Enthusiast**
+<h1 align="center">👋 Hey, I’m <span style="color:#ff4d4d;">Ashwin Jauhary</span>
+<p align="center">Developer • Designer • Builder • Storyteller • Creator</p>
+<h2 align="center">🔥 A Multi-Domain Creator Who Builds Things That People Remember</h2>
+<p align="center"> I build full-stack apps, animated cinematic stories, high-end websites, horror universes, and AI-powered tools.<br/> I love mixing **technology, design, storytelling, AI, and real-world problem solving**. </p>
+<h2 align="center">🖼️ My Design Identity</h2>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=800&color=FF4D4D&center=true&vCenter=true&width=800&lines=Dark+Humor.+Mystery.+Depth.;Cinematic+Storytelling.;Futuristic+Clean+Design.;AI-Driven+Creation.;Building+Experiences%2C+Not+Just+Websites." /> </p>
+<h2 align="center">💼 What I’m Working On</h2>
+🚀 Verbotics – Multilingual Voice AI Chatbot Platform
+🎥 Netrakaal – Hindi Horror Storytelling YouTube Universe
+🏪 Full E-Commerce Platform – Razorpay, JWT, Cloudinary
+📝 Epic Todo App 2.0 – Themes, emojis, analytics
+🎬 Peeche Mat Mudna – Hyper-Realistic Horror Short Film
+🧠 100 Physical Product Business Ideas PDF
+🌐 Portfolio Website – with a mysterious, dark, psychological theme
+<h2 align="center">⚡ Skills & Tools</h2>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,next,angular,nodejs,express,mongodb,git,github,bootstrap,tailwind,figma,redux,vercel,firebase" /> </p>
+<h2 align="center">📈 GitHub Stats</h2>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=radical&hide_border=true" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinjauhary&theme=radical&hide_border=true" height="180" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinjauhary&layout=compact&theme=radical&hide_border=true" height="180" /> </p>
+<h2 align="center">🎬 Cinematic Projects (My Favourite)</h2>
+🎭 Peeche Mat Mudna — DWAAR
 
-🚀 I create projects that combine **technology, creativity, and innovation**.
+Hyper-realistic horror episode with AI-enhanced scenes.
 
----
+🐭 Dominos × Tom & Jerry Collaboration
 
-### 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+3D ultra HD branded image concepts.
 
----
+🕉️ Divine Hanuman Project
 
-### 🌟 Featured Projects
-| Project | Description | Demo / Repo |
-|---------|-------------|-------------|
-| **AJverse React Portfolio** | Futuristic React portfolio with animations & 3D tilt cards | [Live](https://lnkd.in/dQWkzRJ8) |
-| **Notely** | Fully responsive Flutter notes app with Material Design 3 | [Live](https://lnkd.in/dwU6Epkr) |
-| **AJ Verse: To-Do** | Full-stack productivity app with JWT auth & analytics | [Repo](https://github.com/Ashwinjauhary/AJ-Verse-ToDo) |
-| **Aura Smartwatches** | Interactive web template showcasing products | [Repo](https://github.com/Ashwinjauhary/Aura-Smartwatches) |
+Hyper-realistic 3D deity portraits.
 
----
+<h2 align="center">🧩 My Top Dev Projects</h2>
+🔹 Recipe Browser (Angular)
 
-### 🎬 Project Demo
-![Notely Demo](https://i.imgur.com/yourgiflink.gif)
-![AJverse Portfolio Demo](https://i.imgur.com/yourgiflink2.gif)
+Modern UI + search + favorites
 
----
+🔹 Interactive Detective Crime File
 
-### 📊 GitHub Stats
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinjauhary&layout=compact&theme=radical)
+A web mystery puzzle game experience
 
----
+🔹 Browser-in-Browser Simulator
 
-### 🎨 Creative Edge
-- Graphic Design & UI/UX 🎨  
-- Voice Modulation & Character Voiceovers 🎙️  
-- Exploring AI / Gen AI Tools 🤖  
+Fake tabs, inspector, downloads, console—all in JS
 
----
+🔹 Habit Tracker Backend
 
-### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/ashwin-jauhary) | [Portfolio](https://catalystcrewcreators1.github.io/Catalystcrew.official/) | [Instagram](https://www.instagram.com/just_ashwin9)
+PostgreSQL + streaks + leaderboard
 
----
+<h2 align="center">🌐 Social + Connect</h2>
+<p align="center"> <a href="https://github.com/Ashwinjauhary"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> </p>
+<h2 align="center">🎉 Fun Facts</h2>
 
-### 💡 Fun Fact
-I enjoy building projects that **blend tech and creativity**, from futuristic web apps to storytelling with voice and visuals.
+I love mixing mythology + horror + tech
+
+I can design full cinematic worlds
+
+I write detailed animated scripts
+
+I build tools that look AAA-level
+
+<h2 align="center">✨ Final Line</h2>
+<p align="center"><b>“I don't build websites. I build experiences people remember.”</b></p>
