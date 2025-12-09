@@ -1,25 +1,24 @@
 <h1 align="center">👋 Hey, I’m <span style="color:#ff4d4d;">Ashwin Jauhary</span></h1>
-<p align="center">Developer • Designer • Builder • Storyteller • Creator</p>
+<p align="center">Developer • Designer • Builder • Creator</p>
 
-<h3 align="center">I build full-stack apps, cinematic universes, AI tools & dark-themed high-experience websites.</h3>
+<h3 align="center">I build full-stack applications, clean UI/UX, AI-powered tools, and high-quality digital products.</h3>
 
 ---
 
-## 🖤 My Creative Identity
+## 🎨 My Creative Identity
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=FF4D4D&center=true&vCenter=true&width=700&lines=Dark+Humor.;Mystery.;Cinematic+Storytelling.;Futuristic+Design.;AI-Driven+Creation." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=FF4D4D&center=true&vCenter=true&width=700&lines=Clean+Design.;Modern+Web+Development.;AI-Driven+Creation.;Product+Focused.;Efficient+User+Experiences." />
 </p>
 
 ---
 
-## 🚀 What I’m Building Right Now
+## 🚀 What I’m Working On
 - **Verbotics** – Multilingual Voice AI Platform  
-- **Netrakaal** – Hindi Horror Storytelling Universe  
 - **Full E-Commerce Stack** – Razorpay • JWT • Cloudinary  
-- **Epic Todo 2.0** – Themes • Emojis • Analytics  
-- **Peeche Mat Mudna** – Hyper-Realistic Horror Short Film  
+- **Epic Todo App 2.0** – Themes • Emojis • Analytics  
+- **Peeche Mat Mudna** – Hyper-Realistic AI Horror Short  
 - **100 Physical Product Ideas PDF**  
-- **My Portfolio** – Dark + Mysterious + Psychological Identity  
+- **My Portfolio Website** – Clean, fast, modern  
 
 ---
 
@@ -41,19 +40,19 @@
 
 ---
 
-## 🎬 Cinematic Projects I Loved Making
+## 🎬 Projects I Enjoyed Working On
 - **Peeche Mat Mudna — DWAAR**  
-  Hyper-realistic AI horror episode  
-- **Dominos × Tom & Jerry Collaboration**  
-  3D Ultra HD branded scenes  
-- **Divine Hanuman Project**  
-  Cinematic deity portraits in 3D realism  
+  Hyper-realistic AI-generated scenes  
+- **Dominos × Tom & Jerry Concepts**  
+  3D Ultra HD branded visuals  
+- **Divine Hanuman Portraits**  
+  Cinematic 3D deity renders  
 
 ---
 
 ## 🧩 Top Development Projects
 - 🔹 **Recipe Browser (Angular)** – Modern UI + Search + Favorites  
-- 🔹 **Interactive Detective Crime File** – Web mystery puzzle  
+- 🔹 **Interactive Detective Crime File** – Web puzzle experience  
 - 🔹 **Browser-in-Browser Simulator** – Fake tabs, console, downloads  
 - 🔹 **Habit Tracker Backend** – PostgreSQL + streaks + leaderboard  
 
@@ -69,9 +68,9 @@
 ---
 
 ## 🎉 Fun Facts
-- I mix **mythology + horror + tech**  
-- I build **AAA-level experiences**  
-- I write **cinematic scripts & worlds**  
+- I love building clean, modern digital products  
+- I enjoy experimenting with design, AI, and visuals  
+- I aim for polished, high-quality user experiences  
 
 ---
 
