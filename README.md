@@ -23,3 +23,7 @@
 
 ### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/ashwin-jauhary) | [Portfolio](https://catalystcrewcreators1.github.io/Catalystcrew.official/)
+### 📊 GitHub Stats
+![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinjauhary&layout=compact&theme=radical)
