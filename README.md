@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ashwin 👋
+**BCA Student | MERN Developer | Graphic Designer | Voice Artist | Gen AI Enthusiast**
 
-<!--
-**Ashwinjauhary/Ashwinjauhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I create projects that combine **technology, design, and creativity**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB Atlas
+- **Mobile:** Flutter, Dart
+- **Programming:** C, C++
+- **Tools:** Git, GitHub, Azure, Excel
+
+---
+
+### 🌟 Projects
+- [AJverse React Portfolio](https://lnkd.in/dQWkzRJ8)
+- [Notely](https://lnkd.in/dwU6Epkr)
+- [AJ Verse: To-Do](https://github.com/Ashwinjauhary/AJ-Verse-ToDo)
+
+---
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/ashwin-jauhary) | [Portfolio](https://catalystcrewcreators1.github.io/Catalystcrew.official/)
