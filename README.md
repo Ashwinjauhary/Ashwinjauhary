@@ -1,13 +1,10 @@
-<h1 align="center">👋 Hey, I’m <span style="color:#ff4d4d;">Ashwin Jauhary</span></h1>
-<p align="center">Developer • Designer • Builder • Creator</p>
-
-<h3 align="center">I build full-stack applications, clean UI/UX, AI-powered tools, and high-quality digital products.</h3>
-
----
-
-## 🎨 My Creative Identity
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=FF4D4D&center=true&vCenter=true&width=700&lines=Clean+Design.;Modern+Web+Development.;AI-Driven+Creation.;Product+Focused.;Efficient+User+Experiences." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,40:ff69b4,70:9b59b6,100:3498db&height=220&section=header&text=👋+Hey,+I%E2%80%99m+Ashwin+Jauhary+-+Developer+%E2%80%A2+Designer+%E2%80%A2+Builder+%E2%80%A2+Creator&fontSize=36&fontColor=ffffff&animation=wave" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI-Powered+Tools;Clean+UI%2FUX;Digital+Products+Creator;" />
 </p>
 
 ---
@@ -17,8 +14,7 @@
 - **Full E-Commerce Stack** – Razorpay • JWT • Cloudinary  
 - **Epic Todo App 2.0** – Themes • Emojis • Analytics  
 - **Peeche Mat Mudna** – Hyper-Realistic AI Horror Short  
-- **100 Physical Product Ideas PDF**  
-- **My Portfolio Website** – Clean, fast, modern  
+- **Portfolio Website** – Clean, fast, modern  
 
 ---
 
@@ -30,29 +26,22 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <!-- GitHub Streak (Heroku proxy, works reliably) -->
-  <img src="https://camo.githubusercontent.com/2fc7a8c48fe79026310f4966af71d5ceb6534a69e0d15b5ab2f1d1b1d8d7790e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d41736877696e6a617568617279267468656d653d7261646963616c26686964655f626f726465723d74727565" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinjauhary&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinjauhary&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🎬 Projects I Enjoyed Working On
-- **Peeche Mat Mudna — DWAAR**  
-  Hyper-realistic AI-generated scenes  
-- **Dominos × Tom & Jerry Concepts**  
-  3D Ultra HD branded visuals  
-- **Divine Hanuman Portraits**  
-  Cinematic 3D deity renders  
-
----
-
-## 🧩 Top Development Projects
-- 🔹 **Recipe Browser (Angular)** – Modern UI + Search + Favorites  
-- 🔹 **Interactive Detective Crime File** – Web puzzle experience  
-- 🔹 **Browser-in-Browser Simulator** – Fake tabs, console, downloads  
-- 🔹 **Habit Tracker Backend** – PostgreSQL + streaks + leaderboard  
+## 🧩 Projects
+- **Peeche Mat Mudna — DWAAR** – Hyper-realistic AI scenes  
+- **Dominos × Tom & Jerry Concepts** – 3D Ultra HD visuals  
+- **Divine Hanuman Portraits** – Cinematic 3D renders  
+- **Recipe Browser (Angular)** – Modern UI + Search + Favorites  
+- **Interactive Detective Crime File** – Web puzzle  
+- **Browser-in-Browser Simulator** – Fake tabs, console, downloads  
+- **Habit Tracker Backend** – PostgreSQL + streaks + leaderboard  
 
 ---
 
@@ -68,8 +57,10 @@
 ## 🎉 Fun Facts
 - I love building clean, modern digital products  
 - I enjoy experimenting with design, AI, and visuals  
-- I aim for polished, high-quality user experiences  
 
 ---
 
-<h3 align="center"><b>“I don't build websites. I build experiences people remember.”</b></h3>
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,40:9b59b6,70:ff69b4,100:ff4d4d&height=150&section=footer&text=“I+don’t+build+websites.+I+build+experiences+people+remember.”&fontSize=32&fontColor=ffffff&animation=wave" />
+</p>
