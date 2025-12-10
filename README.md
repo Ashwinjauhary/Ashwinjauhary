@@ -67,8 +67,8 @@
 
 | Project | Tech / Stack | Preview |
 |---------|--------------|---------|
-| **Recipe Browser (Angular)** | HTML • TypeScript • SCSS • JS • Angular CLI | ![Preview](https://via.placeholder.com/150) |
-| **Invoice Maker – Professional Billing System** | Python • HTML • Shell • Batchfile | ![Preview](https://via.placeholder.com/150) |
+| **Recipe Browser (Angular)** | HTML • TypeScript • SCSS • JS • Angular CLI | ![Preview](https://ik.imagekit.io/7cknsz6it/image.png) |
+| **Invoice Maker – Professional Billing System** | Python • HTML • Shell • Batchfile | ![Preview](https://ik.imagekit.io/7cknsz6it/image.png) |
 | **Meditation Hub App** | Dart • Flutter • C++ • CMake • Swift | ![Preview](https://via.placeholder.com/150) |
 
 ---
