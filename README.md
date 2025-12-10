@@ -38,7 +38,7 @@
 ## 🎬 Highlight Projects
 | Project | Tech / Type | Preview |
 |---------|-------------|--------|
-| Peeche Mat Mudna — DWAAR | Hyper-realistic AI Short | ![Preview](https://via.placeholder.com/150) |
+| Peeche Mat Mudna — DWAAR | Hyper-realistic AI Short | ![Preview]((https://ik.imagekit.io/7cknsz6it/CATALYST%20CREW/project_3-removebg-preview.png?updatedAt=1755988042203)) |
 | Dominos × Tom & Jerry Concepts | 3D Ultra HD visuals | ![Preview](https://via.placeholder.com/150) |
 | Divine Hanuman Portraits | Cinematic 3D renders | ![Preview](https://via.placeholder.com/150) |
 
