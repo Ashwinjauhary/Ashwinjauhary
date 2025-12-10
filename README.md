@@ -24,7 +24,7 @@
 
 ## 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,angular,nodejs,express,mongodb,git,github,tailwind,bootstrap,figma,redux,vercel,firebase,postman,linux,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,angular,nodejs,express,mongodb,git,github,tailwind,bootstrap,figma,redux,vercel,firebase,postman,linux,python,dart,flutter,c,cpp" />
 </p>
 
 ---
@@ -34,23 +34,23 @@
 ### 🧩 **Frontend**
 - React • Next.js • Angular  
 - Tailwind • Bootstrap • ShadCN  
-- Figma • UI/UX • Animation-focused design  
+- Figma • UI/UX • Animations  
 
 ### ⚙️ **Backend**
 - Node.js • Express  
-- JWT Auth • MongoDB • Firebase  
-- Cloudinary • Razorpay  
+- MongoDB • PostgreSQL  
+- JWT Auth • Cloudinary • Razorpay  
 
 ### 🤖 **AI & Automation**
 - Prompt Engineering  
 - AI Visual Pipeline Setup  
-- Automation Scripts  
+- Task Automation Scripts  
 
-### 🛠️ **Other Expertise**
-- Git/GitHub  
+### 🧭 **Other Expertise**
+- Git & GitHub  
 - API Design  
 - Product Prototyping  
-- System Design (Beginner → Improving)
+- System Design (Growing)
 
 ---
 
@@ -62,29 +62,33 @@
 
 ---
 
-## 🎬 Highlight Projects
-| Project | Type / Tech | Preview |
-|---------|-------------|---------|
-| **Peeche Mat Mudna – DWAAR** | Hyper-realistic AI Short | ![Preview](https://ik.imagekit.io/7cknsz6it/CATALYST%20CREW/project_3-removebg-preview.png?updatedAt=1755988042203) |
-| **Dominos × Tom & Jerry Concepts** | 3D Ultra HD Visuals | ![Preview](https://ik.imagekit.io/7cknsz6it/CATALYST%20CREW/project%205%20(2).png?updatedAt=1755988042217) |
-| **Divine Hanuman Portraits** | Cinematic AI Renders | ![Preview](https://ik.imagekit.io/7cknsz6it/CATALYST%20CREW/post.png?updatedAt=1755974392379) |
+## 🎬 Highlight Projects  
+### 🔥 **Replaced old demos with your new real projects**
+
+| Project | Tech / Stack | Preview |
+|---------|--------------|---------|
+| **Recipe Browser (Angular)** | HTML • TypeScript • SCSS • JS • Angular CLI | ![Preview](https://via.placeholder.com/150) |
+| **Invoice Maker – Professional Billing System** | Python • HTML • Shell • Batchfile | ![Preview](https://via.placeholder.com/150) |
+| **Meditation Hub App** | Dart • Flutter • C++ • CMake • Swift | ![Preview](https://via.placeholder.com/150) |
 
 ---
 
 ## 🧩 Development Projects
 - **Recipe Browser (Angular)** – Search • Filters • Favorites  
-- **Interactive Detective Crime File** – Web-based puzzle world  
+- **Invoice Maker** – Auto billing • PDF • Clean UI  
+- **Meditation Hub (Flutter)** – Calm UI • Smooth experience  
+- **Interactive Detective Crime File** – Web puzzle world  
 - **Browser-in-Browser Simulator** – Fake tabs, console, downloads  
 - **Habit Tracker Backend** – PostgreSQL • Streaks • Leaderboard  
 
 ---
 
 ## 🏆 Achievements & Milestones
-- Built 50+ modern UI projects  
-- Designed 200+ premium AI visuals  
-- Developed 20+ fully functional apps  
-- Created multiple viral horror & cinematic concepts  
-- Helped creators build product ideas & AI workflows  
+- Built **50+ modern UI projects**  
+- Created **200+ premium AI visuals**  
+- Developed **20+ full applications**  
+- Produced viral AI horror visuals  
+- Helped multiple creators with AI/product workflows  
 
 ---
 
@@ -96,10 +100,10 @@
 ---
 
 ## 💡 What I Love Doing
-- Creating clean, beautiful digital experiences  
+- Crafting beautiful, modern digital experiences  
 - Building AI-powered tools  
-- Crafting cinematic visuals  
-- Mixing creativity + tech to build memorable products  
+- Designing cinematic visuals  
+- Mixing creativity with technology  
 
 ---
 
@@ -114,8 +118,8 @@
 ---
 
 ## 🎉 Fun Facts
-- I love crafting high-quality products  
-- I experiment with design + AI almost daily  
+- I love crafting high-quality digital products  
+- I experiment with AI + design almost daily  
 - I aim to build things that **people remember**  
 
 <h3 align="center"><b>“I don’t build websites. I build experiences people remember.”</b></h3>
