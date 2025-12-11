@@ -1,117 +1,112 @@
-<h1 align="center">👋 Hey, I’m <span style="background:linear-gradient(90deg,#ff4d4d,#ffb84d);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ashwin Jauhary</span></h1>
-<p align="center"><b>Developer • Designer • Builder • Creator</b></p>
+<!-- ─────────────────────────────────────────────── -->
+<!-- 🌌 ASHWIN JAUHARY — PREMIUM ANIMATED README -->
+<!-- ─────────────────────────────────────────────── -->
 
-<h3 align="center">I build full-stack apps, modern UI/UX, creative AI experiences, and premium digital products.</h3>
+<!-- HERO TITLE -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&weight=900&duration=2000&pause=600&color=FF4D4D&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Ashwin+Jauhary;Full-Stack+Developer;AI+Builder+%26+Designer;Digital+Product+Creator;I+Build+Premium+Experiences+%F0%9F%94%A5" />
+</h1>
+
+<!-- SUBTITLE -->
+<h3 align="center">
+  Developer • Designer • Builder • Creator  
+  <br>
+  <span style="font-size:17px;">I build full-stack apps, modern UI/UX, cinematic visuals & advanced AI experiences.</span>
+</h3>
 
 ---
 
-## 🎨 Creative Identity
+<!-- FLOATING EMOJIS (GIF) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=FF4D4D&center=true&vCenter=true&width=750&lines=Clean+Design.;Modern+Web+Development.;AI-Powered+Creation.;Product+Focused.;Smooth+User+Experiences.;High-Quality+Digital+Craftsmanship." />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.gif" width="500">
 </p>
 
 ---
 
-## 🚀 Current Projects
+# 🎨 **Creative Identity**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=FFB84D&center=true&vCenter=true&width=750&lines=Clean+Design.;Modern+Web+Development.;AI-Powered+Creation.;Product+Focused.;Cinematic+User+Experiences.;High-Quality+Digital+Craftsmanship.">
+</p>
+
+---
+
+# 🚀 **Current Projects**
+🔥 **Actively Building:**
 - **Verbotics** – Multilingual Voice AI Platform  
-- **Full E-Commerce Stack** – Razorpay • JWT • Cloudinary  
-- **Epic Todo App 2.0** – Themes • Emojis • Analytics  
+- **E-Commerce Stack** – Razorpay • JWT • Cloudinary  
+- **Epic Todo 2.0** – Themes • Emojis • Insights  
 - **Peeche Mat Mudna** – Hyper-Realistic AI Horror Short  
 - **100 Physical Product Ideas PDF**  
-- **Modern Portfolio Website** – Super clean, fast & animated  
+- **New Portfolio Website** – 3D, smooth & animated  
 
 ---
 
-## 🛠️ Skills & Tools
+# 🛠️ **Skills & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,angular,nodejs,express,mongodb,git,github,tailwind,bootstrap,figma,redux,vercel,firebase,postman,linux,python,dart,flutter,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,angular,nodejs,express,mongodb,git,github,tailwind,bootstrap,figma,redux,vercel,firebase,postman,linux,python,dart,flutter,c,cpp&theme=dark" />
 </p>
 
 ---
 
-## 📚 Tech Stack Breakdown
+# ⚡ **Animated Stats Section**
 
-### 🧩 **Frontend**
-- React • Next.js • Angular  
-- Tailwind • Bootstrap • ShadCN  
-- Figma • UI/UX • Animations  
-
-### ⚙️ **Backend**
-- Node.js • Express  
-- MongoDB • PostgreSQL  
-- JWT Auth • Cloudinary • Razorpay  
-
-### 🤖 **AI & Automation**
-- Prompt Engineering  
-- AI Visual Pipeline Setup  
-- Task Automation Scripts  
-
-### 🧭 **Other Expertise**
-- Git & GitHub  
-- API Design  
-- Product Prototyping  
-- System Design (Growing)
-
----
-
-## 🎬 Highlight Projects  
-### 🔥 **Replaced old demos with your new real projects**
-
-| Project | Tech / Stack | Preview |
-|---------|--------------|---------|
-| **Recipe Browser (Angular)** | HTML • TypeScript • SCSS • JS • Angular CLI | ![Preview](https://ik.imagekit.io/7cknsz6it/image1.png?updatedAt=1765347665129) |
-| **Invoice Maker – Professional Billing System** | Python • HTML • Shell • Batchfile | ![Preview](https://ik.imagekit.io/7cknsz6it/CATALYST%20CREW/image2.png?updatedAt=1765348097529) |
-| **Meditation Hub App** | Dart • Flutter • C++ • CMake • Swift | ![Preview](https://ik.imagekit.io/7cknsz6it/image3.png) |
-
----
-
-## 🧩 Development Projects
-- **Recipe Browser (Angular)** – Search • Filters • Favorites  
-- **Invoice Maker** – Auto billing • PDF • Clean UI  
-- **Meditation Hub (Flutter)** – Calm UI • Smooth experience  
-- **Interactive Detective Crime File** – Web puzzle world  
-- **Browser-in-Browser Simulator** – Fake tabs, console, downloads  
-- **Habit Tracker Backend** – PostgreSQL • Streaks • Leaderboard  
-
----
-
-## 🏆 Achievements & Milestones
-- Built **50+ modern UI projects**  
-- Created **200+ premium AI visuals**  
-- Developed **20+ full applications**  
-- Produced viral AI horror visuals  
-- Helped multiple creators with AI/product workflows  
-
----
-
-## 🔥 Activity Heatmap
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinjauhary&theme=redical&hide_border=true" />
 </p>
 
 ---
 
-## 💡 What I Love Doing
-- Crafting beautiful, modern digital experiences  
-- Building AI-powered tools  
-- Designing cinematic visuals  
-- Mixing creativity with technology  
+# 🎬 **Featured Projects (Animated Cards)**
+
+### 🚀 **Top 3 Real Projects**
+
+| 💼 Project | 🧩 Stack | 🔥 Preview |
+|-----------|---------|------------|
+| **Recipe Browser (Angular)** | TypeScript • SCSS • Angular CLI | ![Preview](https://ik.imagekit.io/7cknsz6it/image1.png?updatedAt=1765347665129) |
+| **Invoice Maker – Billing System** | Python • HTML • Shell | ![Preview](https://ik.imagekit.io/7cknsz6it/CATALYST%20CREW/image2.png?updatedAt=1765348097529) |
+| **Meditation Hub App** | Dart • Flutter • Swift | ![Preview](https://ik.imagekit.io/7cknsz6it/image3.png) |
 
 ---
 
-## 🌐 Connect With Me
+# 🧠 **Developer Philosophy**
+### 💡 I Believe In:
+✔ Speed + Beauty  
+✔ Clean architecture  
+✔ AI × Creativity  
+✔ Experiences > Websites  
+✔ Quality over quantity  
+
+---
+
+# 🚧 **2025 Roadmap**
+- 🚀 Launching a full SaaS app  
+- 🎙️ Building AI Voice+Video Generator  
+- 🔮 Releasing Open-Source UI components  
+- 🎬 Creating next-level AI Horror visuals  
+- 🌍 Dropping my 3D Portfolio Website  
+
+---
+
+# 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://github.com/Ashwinjauhary"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Ashwinjauhary"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🎉 Fun Facts
-- I love crafting high-quality digital products  
-- I experiment with AI + design almost daily  
-- I aim to build things that **people remember**  
+# 🎉 **Fun Facts**
+- I experiment with AI + design every day  
+- I build high-quality digital products  
+- I love creating things people *remember*  
 
-<h3 align="center"><b>“I don’t build websites. I build experiences people remember.”</b></h3>
+---
+
+# 🧿 **Signature Quote**
+<h2 align="center">
+  <b>“I don’t just build websites — I build experiences people remember.”</b>
+</h2>
+
+<!-- END -->
