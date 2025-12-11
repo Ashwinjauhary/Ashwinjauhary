@@ -79,11 +79,6 @@
 
 # 🌐 **3D Orbit Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Ashwinjauhary&theme=tokyonight&hide_border=true&border_radius=15" height="170" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinjauhary&theme=tokyo-night&hide_border=true&bg_color=0D111700" />
 </p>
 
