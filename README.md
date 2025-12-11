@@ -54,14 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinjauhary&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🎬 Highlight Projects  
 ### 🔥 **Replaced old demos with your new real projects**
 
