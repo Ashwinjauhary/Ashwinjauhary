@@ -129,3 +129,7 @@
 </h2>
 
 <!-- END -->
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:ff004f,100:ff9900&section=footer">
