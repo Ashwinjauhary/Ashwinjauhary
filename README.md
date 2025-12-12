@@ -39,7 +39,7 @@
 
 ---
 
-# 🚀 **Hero Projects (3D Cards)**
+# 🚀 **Hero Projects**
 
 ## 🔥 **Recipe Browser — Angular**
 <img src="https://ik.imagekit.io/7cknsz6it/image1.png?updatedAt=1765347665129" width="100%" style="border-radius:16px;">
