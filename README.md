@@ -32,7 +32,7 @@
 
 ---
 
-# 🔮 **Tech Stack Universe (3D Icons)**  
+# 🔮 **Tech Stack Universe**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,angular,tailwind,bootstrap,figma,threejs,nodejs,express,mongodb,postgres,python,flutter,dart,cpp,vercel,git,github&perline=9" />
 </p>
@@ -104,12 +104,11 @@
 
 ---
 
-# 📫 **Connect With Me (3D Buttons)**
+# 📫 **Connect With Me**
 <p align="center">
   <a href="https://github.com/Ashwinjauhary"><img src="https://img.shields.io/badge/GitHub-050F2C?style=for-the-badge&logo=github&logoColor=00E0FF"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E0FF"></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-0F0F0F?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=00E0FF"></a>
+  <a href="https://ashwin-portolio-react.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E0FF"></a>
+  <a href="https://www.linkedin.com/in/ashwin-jauhary?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=00E0FF"></a>
 </p>
 
 ---
