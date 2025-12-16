@@ -79,7 +79,7 @@
 
 # 🌐 **3D Orbit Stats**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinjauhary&theme=tokyo-night&hide_border=true&bg_color=0D111700" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinjauhary&theme=tokyo-night&hide_border=true&bg_color=#000000BF" />
 </p>
 
 ---
