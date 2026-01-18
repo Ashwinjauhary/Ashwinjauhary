@@ -7,8 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ashwinjauhary.png" width="170" />
+  <img src="https://img.shields.io/badge/-Ashwin%20Jauhary-0D1117?style=for-the-badge&logo=github&logoColor=00E0FF" />
 </p>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/ashwinjauhary" width="160" />
+</p>
+
+
 
 <h3 align="center">
   <i>Code with intent. Design with clarity. Build for scale.</i>
@@ -39,7 +44,7 @@ I care about:
 
 ---
 
-## 🔥 GitHub Stats (100% WORKING • CAMO-FREE)
+## 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ashwinjauhary&theme=tokyonight" />
