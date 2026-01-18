@@ -1,9 +1,9 @@
 <!-- ───────────────────────────────────────────── -->
-<!-- 🚀 ASHWIN JAUHARY — DYNAMIC FULL-STACK README -->
+<!-- 🚀 ASHWIN JAUHARY — FULL STACK DEVELOPER -->
 <!-- ───────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=44&duration=1500&pause=350&color=00E0FF&center=true&vCenter=true&width=1100&lines=Ashwin+Jauhary;Full+Stack+Developer;System-First+Engineer;I+Build+Things+That+Actually+Scale" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=1600&pause=400&color=00E0FF&center=true&vCenter=true&width=1100&lines=Ashwin+Jauhary;Full+Stack+Developer;System-First+Engineer;I+Build+Scalable+Web+Products" />
 </p>
 
 <p align="center">
@@ -16,112 +16,107 @@
 
 ---
 
-## ⚡ Who Am I
+## 👋 About Me
 
-I’m **Ashwin**, a **Full Stack Developer** who enjoys building  
-**real products**, not just demo projects.
+I’m **Ashwin**, a **Full Stack Developer** focused on building  
+**production-ready web applications** — not just demo projects.
 
 I care about:
 - clean architecture  
-- performance under pressure  
-- systems that don’t fall apart after deployment  
-
-If it looks good **and** survives real users — I’m interested.
-
----
-
-## 🎯 What I Do (For Real)
-
-✔ Build full-stack web applications  
-✔ Design scalable frontend architecture  
-✔ Write backend logic that future devs won’t hate  
-✔ Think in flows, edge-cases, and scale  
-✔ Ship → learn → improve  
+- predictable systems  
+- performance under real users  
+- code that scales and stays readable  
 
 ---
 
-## 🔥 Live GitHub Energy
+## 🎯 What I Do
+
+• Build full-stack web applications  
+• Design scalable frontend architecture  
+• Write backend logic with clean boundaries  
+• Think in flows, edge cases, and scale  
+• Ship → learn → improve  
+
+---
+
+## 🔥 GitHub Stats (100% WORKING • CAMO-FREE)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinjauhary&show_icons=true&theme=tokyonight&hide_border=true" height="185"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashwinjauhary&theme=tokyonight&hide_border=true" height="185"/>
+  <img src="https://streak-stats.demolab.com?user=ashwinjauhary&theme=tokyonight" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinjauhary&theme=tokyo-night&hide_border=true&bg_color=000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinjauhary&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 🧠 How I Think About a Product
 
-I don’t open VS Code immediately.
+Before writing code, I ask:
 
-First I ask:
-- Who is the user?
-- What problem actually hurts?
-- What breaks when traffic grows?
-- What must *never* break?
+• Who is the user?  
+• What problem actually matters?  
+• What breaks when traffic grows?  
+• What must never fail?
 
-Then I design the system:
+Then I design the system step-by-step:
 
-🔹 User intent  
-🔹 UX & interaction flow  
-🔹 Frontend state management  
-🔹 API boundaries  
-🔹 Business logic  
-🔹 Database truth  
-🔹 Deployment & scaling  
-
-Simple. Intentional. Structured.
+• User intent  
+• UX & interaction flow  
+• Frontend state management  
+• API contracts  
+• Business logic  
+• Database design  
+• Deployment & scaling  
 
 ---
 
-## 🛠️ Tech I Use
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,framer,nodejs,express,postgres,mongodb,python,threejs,vercel,git,github,figma&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,mongodb,python,threejs,vercel,git,github,figma&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Things I’ve Built
+## 🚀 Projects
 
 ### 🏛️ ClubSphere  
-College club management system (used for real workflows)
-
+College club management system for real workflows  
 • Role-based access  
 • Secure authentication  
 • Event approvals & reporting  
-• Clean, scalable database design  
+
+**Stack:** React · TypeScript · Supabase · PostgreSQL  
 
 ---
 
 ### 🧠 Hi-Tech Portfolio  
-Performance-focused portfolio website
-
-• Fast & SEO-ready  
+Performance-focused portfolio website  
+• SEO-optimized  
 • Theme support  
-• Smooth but meaningful animations  
+• Smooth, purposeful animations  
+
+**Stack:** React · Vite · Tailwind · Framer Motion  
 
 ---
 
 ### ☀️ SolarFlow Viz  
-Real-time 3D workflow visualization
-
+Real-time 3D workflow visualization  
 • Interactive Three.js scenes  
 • Data-driven visuals  
-• Clear information flow  
+
+**Stack:** React · Three.js · React Three Fiber  
 
 ---
 
 ### 🧾 Invoicyy  
-GST billing system for actual use
-
+GST billing system for actual use  
 • Automated tax logic  
-• PDF invoice generation  
-• UPI-based payment flow  
+• PDF invoices  
+• UPI-based payments  
+
+**Stack:** Python · Streamlit · SQLite  
 
 ---
 
@@ -133,7 +128,7 @@ GST billing system for actual use
 
 ✅ Clear structure  
 ✅ Predictable behavior  
-✅ Readable, maintainable code  
+✅ Readable & maintainable code  
 ✅ Long-term thinking  
 
 ---
@@ -142,8 +137,8 @@ GST billing system for actual use
 
 You’ll like working with me if you want someone who:
 - understands frontend **and** backend  
-- thinks before writing code  
-- cares about quality & scale  
+- thinks before coding  
+- cares about scale & quality  
 - stays responsible after deployment  
 
 ---
@@ -152,22 +147,12 @@ You’ll like working with me if you want someone who:
 😄 If you scrolled till here — we’ll probably work well together
 </h2>
 
-<br/>
-
 <p align="center">
-  <a href="https://github.com/ashwinjauhary">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E0FF" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ashwin-jauhary">
-    <img src="https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=00E0FF" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ashwin2431333@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E0FF" />
-  </a>
-</p>
 
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E0FF)](https://github.com/ashwinjauhary)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=00E0FF)](https://linkedin.com/in/ashwin-jauhary)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E0FF)](mailto:ashwin2431333@gmail.com)
+
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00E0FF,100:F59E0B&section=footer" />
