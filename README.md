@@ -1,134 +1,173 @@
-<!-- ─────────────────────────────────────────────── -->
-<!-- 🌐 ASHWIN JAUHARY — 3D PORTFOLIO STYLE README -->
-<!-- ─────────────────────────────────────────────── -->
+<!-- ───────────────────────────────────────────── -->
+<!-- 🚀 ASHWIN JAUHARY — DYNAMIC FULL-STACK README -->
+<!-- ───────────────────────────────────────────── -->
 
-<!-- 3D HERO TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monaco&weight=900&size=40&duration=2000&pause=600&color=00E0FF&center=true&vCenter=true&width=900&lines=Ashwin+Jauhary;Full-Stack+Developer;AI+Builder+%26+Designer;3D+Digital+Experience+Creator" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=44&duration=1500&pause=350&color=00E0FF&center=true&vCenter=true&width=1100&lines=Ashwin+Jauhary;Full+Stack+Developer;System-First+Engineer;I+Build+Things+That+Actually+Scale" />
 </p>
 
-<!-- GLASS CARD -->
 <p align="center">
-  <img src="https://github.com/Ashwinjauhary.png" width="150" style="border-radius:50%;box-shadow:0px_0px_25px_#00eaff;">
+  <img src="https://github.com/ashwinjauhary.png" width="170" />
 </p>
 
 <h3 align="center">
-  <i>“I design & build next-gen digital experiences with 3D, AI, and clean engineering.”</i>
+  <i>Code with intent. Design with clarity. Build for scale.</i>
 </h3>
 
 ---
 
-# 🧊 **3D Identity Section**
+## ⚡ Who Am I
+
+I’m **Ashwin**, a **Full Stack Developer** who enjoys building  
+**real products**, not just demo projects.
+
+I care about:
+- clean architecture  
+- performance under pressure  
+- systems that don’t fall apart after deployment  
+
+If it looks good **and** survives real users — I’m interested.
+
+---
+
+## 🎯 What I Do (For Real)
+
+✔ Build full-stack web applications  
+✔ Design scalable frontend architecture  
+✔ Write backend logic that future devs won’t hate  
+✔ Think in flows, edge-cases, and scale  
+✔ Ship → learn → improve  
+
+---
+
+## 🔥 Live GitHub Energy
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="850" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinjauhary&show_icons=true&theme=tokyonight&hide_border=true" height="185"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashwinjauhary&theme=tokyonight&hide_border=true" height="185"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinjauhary&theme=tokyo-night&hide_border=true&bg_color=000000" />
 </p>
 
 ---
 
-# 🎨 **Design • 3D • AI**
+## 🧠 How I Think About a Product
+
+I don’t open VS Code immediately.
+
+First I ask:
+- Who is the user?
+- What problem actually hurts?
+- What breaks when traffic grows?
+- What must *never* break?
+
+Then I design the system:
+
+🔹 User intent  
+🔹 UX & interaction flow  
+🔹 Frontend state management  
+🔹 API boundaries  
+🔹 Business logic  
+🔹 Database truth  
+🔹 Deployment & scaling  
+
+Simple. Intentional. Structured.
+
+---
+
+## 🛠️ Tech I Use
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2000&pause=400&color=FF7B00&center=true&vCenter=true&width=800&lines=3D+UI%2FUX+Design;Cinematic+AI+Visuals;Premium+Frontend+Engineering;Modern+Digital+Product+Building;Clean+Motion+%26+Micro-Interactions" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,framer,nodejs,express,postgres,mongodb,python,threejs,vercel,git,github,figma&perline=8&theme=dark" />
 </p>
 
 ---
 
-# 🔮 **Tech Stack Universe**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,angular,tailwind,bootstrap,figma,threejs,nodejs,express,mongodb,postgres,python,flutter,dart,cpp,vercel,git,github&perline=9" />
-</p>
+## 🚀 Things I’ve Built
+
+### 🏛️ ClubSphere  
+College club management system (used for real workflows)
+
+• Role-based access  
+• Secure authentication  
+• Event approvals & reporting  
+• Clean, scalable database design  
 
 ---
 
-# 🚀 **Hero Projects**
+### 🧠 Hi-Tech Portfolio  
+Performance-focused portfolio website
 
-## 🔥 **Recipe Browser — Angular**
-<img src="https://ik.imagekit.io/7cknsz6it/image1.png?updatedAt=1765347665129" width="100%" style="border-radius:16px;">
-
-#### ⚙️ Stack  
-`Angular` • `TypeScript` • `SCSS` • `CLI`  
-#### ⭐ Highlights  
-- Live filtering  
-- Responsive UI  
-- Smooth animations  
+• Fast & SEO-ready  
+• Theme support  
+• Smooth but meaningful animations  
 
 ---
 
-## 💼 **Invoice Maker — Billing System**
-<img src="https://ik.imagekit.io/7cknsz6it/CATALYST%20CREW/image2.png?updatedAt=1765348097529" width="100%" style="border-radius:16px;">
+### ☀️ SolarFlow Viz  
+Real-time 3D workflow visualization
 
-#### ⚙️ Stack  
-`Python` • `HTML` • `Shell`  
-#### ⭐ Highlights  
-- Auto PDF  
-- Professional interface  
-- Ready for small business use  
+• Interactive Three.js scenes  
+• Data-driven visuals  
+• Clear information flow  
 
 ---
 
-## 🧘‍♂️ **Meditation Hub (Flutter App)**
-<img src="https://ik.imagekit.io/7cknsz6it/image3.png" width="100%" style="border-radius:16px;">
+### 🧾 Invoicyy  
+GST billing system for actual use
 
-#### ⚙️ Stack  
-`Flutter` • `Dart` • `C++` • `Swift`  
-#### ⭐ Highlights  
-- Smooth UI flow  
-- Professional calming aesthetics  
-- Cross-platform  
+• Automated tax logic  
+• PDF invoice generation  
+• UPI-based payment flow  
 
 ---
 
-# 🌐 **3D Orbit Stats**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinjauhary&theme=tokyo-night&hide_border=true&bg_color=#000000BF" />
-</p>
+## 🧭 Rules I Code By
+
+❌ Random hacks  
+❌ “It works bro” logic  
+❌ Over-engineering  
+
+✅ Clear structure  
+✅ Predictable behavior  
+✅ Readable, maintainable code  
+✅ Long-term thinking  
 
 ---
 
-# 🧠 **3D Developer Philosophy**
-### ✨ I Believe In  
-- **Clean + Bold UI**  
-- **Cinematic visuals**  
-- **Powerful engineering**  
-- **AI-first thinking**  
-- **Creating things that feel alive**  
+## 🎯 For Recruiters
+
+You’ll like working with me if you want someone who:
+- understands frontend **and** backend  
+- thinks before writing code  
+- cares about quality & scale  
+- stays responsible after deployment  
 
 ---
 
-# 📍 **2025 Master Roadmap**
-- 🌐 Launch full SaaS product  
-- 🧠 Build AI Voice + Video platform  
-- 🎮 Create 3D portfolio website  
-- 📦 Release full MERN e-commerce system  
-- 🎬 Develop AI horror cinematic engine  
-- 🧩 Publish open-source UI components library  
-
----
-
-# 📫 **Connect With Me**
-<p align="center">
-  <a href="https://github.com/Ashwinjauhary"><img src="https://img.shields.io/badge/GitHub-050F2C?style=for-the-badge&logo=github&logoColor=00E0FF"></a>
-  <a href="https://ashwin-portolio-react.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E0FF"></a>
-  <a href="https://www.linkedin.com/in/ashwin-jauhary?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=00E0FF"></a>
-</p>
-
----
-
-# 🎉 **Fun Facts**
-- I experiment with AI visuals daily  
-- I love creating futuristic UI  
-- I enjoy building solutions from scratch  
-- I'm obsessed with premium clean designs  
-- I build things people **remember**  
-
----
-
-# ✨ **The Closing Line**
 <h2 align="center">
-  <b>“I don’t build websites — I craft 3D experiences that stay in your mind.”</b>
+😄 If you scrolled till here — we’ll probably work well together
 </h2>
 
-<!-- END -->
+<br/>
 
+<p align="center">
+  <a href="https://github.com/ashwinjauhary">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E0FF" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ashwin-jauhary">
+    <img src="https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=00E0FF" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ashwin2431333@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E0FF" />
+  </a>
+</p>
 
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:ff004f,100:ff9900&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00E0FF,100:F59E0B&section=footer" />
