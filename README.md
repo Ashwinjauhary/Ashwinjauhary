@@ -3,52 +3,56 @@
 <!-- ───────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=1600&pause=400&color=00E0FF&center=true&vCenter=true&width=1100&lines=Ashwin+Jauhary;Full+Stack+Developer;System-First+Engineer;I+Build+Scalable+Web+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=42&duration=1600&pause=400&color=00E0FF&center=true&vCenter=true&width=1100&lines=Ashwin+Jauhary;Full+Stack+Developer;System-First+Engineer;I+Build+Scalable+Web+Products" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Ashwin%20Jauhary-0D1117?style=for-the-badge&logo=github&logoColor=00E0FF" />
 </p>
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/ashwinjauhary" width="160" />
 </p>
 
-
-
 <h3 align="center">
-  <i>Code with intent. Design with clarity. Build for scale.</i>
+  <i>Code with intent · Design with clarity · Build for scale</i>
 </h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656950-0e1f7e9b-9a4b-4b0b-b8e3-97c2c2a3e5b3.gif" width="420"/>
+</p>
 
 ---
 
 ## 👋 About Me
 
-I’m **Ashwin**, a **Full Stack Developer** focused on building  
+I’m **Ashwin**, a **Full Stack Developer** who enjoys building  
 **production-ready web applications** — not just demo projects.
 
-I care about:
-- clean architecture  
-- predictable systems  
-- performance under real users  
-- code that scales and stays readable  
+I focus on:
+- 🧠 clean architecture  
+- ⚙️ predictable systems  
+- 🚀 performance under real users  
+- 📦 code that scales and stays readable  
 
 ---
 
-## 🎯 What I Do
+## 🎯 What I Do Best
 
-• Build full-stack web applications  
-• Design scalable frontend architecture  
-• Write backend logic with clean boundaries  
-• Think in flows, edge cases, and scale  
-• Ship → learn → improve  
+✔ Build full-stack web applications  
+✔ Design scalable frontend architecture  
+✔ Write backend logic with clean boundaries  
+✔ Think in flows, edge cases, and scale  
+✔ Ship → learn → improve  
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ashwinjauhary&theme=tokyonight" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinjauhary&theme=tokyo-night" />
 </p>
@@ -59,20 +63,14 @@ I care about:
 
 Before writing code, I ask:
 
-• Who is the user?  
-• What problem actually matters?  
-• What breaks when traffic grows?  
-• What must never fail?
+- Who is the user?
+- What problem actually matters?
+- What breaks when traffic grows?
+- What must **never** fail?
 
 Then I design the system step-by-step:
 
-• User intent  
-• UX & interaction flow  
-• Frontend state management  
-• API contracts  
-• Business logic  
-• Database design  
-• Deployment & scaling  
+**Intent → UX → State → APIs → Logic → Data → Scale**
 
 ---
 
@@ -84,13 +82,13 @@ Then I design the system step-by-step:
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🏛️ ClubSphere  
 College club management system for real workflows  
-• Role-based access  
-• Secure authentication  
-• Event approvals & reporting  
+- Role-based access  
+- Secure authentication  
+- Event approvals & reporting  
 
 **Stack:** React · TypeScript · Supabase · PostgreSQL  
 
@@ -98,9 +96,9 @@ College club management system for real workflows
 
 ### 🧠 Hi-Tech Portfolio  
 Performance-focused portfolio website  
-• SEO-optimized  
-• Theme support  
-• Smooth, purposeful animations  
+- SEO-optimized  
+- Theme support  
+- Smooth, purposeful animations  
 
 **Stack:** React · Vite · Tailwind · Framer Motion  
 
@@ -108,8 +106,8 @@ Performance-focused portfolio website
 
 ### ☀️ SolarFlow Viz  
 Real-time 3D workflow visualization  
-• Interactive Three.js scenes  
-• Data-driven visuals  
+- Interactive Three.js scenes  
+- Data-driven visuals  
 
 **Stack:** React · Three.js · React Three Fiber  
 
@@ -117,9 +115,9 @@ Real-time 3D workflow visualization
 
 ### 🧾 Invoicyy  
 GST billing system for actual use  
-• Automated tax logic  
-• PDF invoices  
-• UPI-based payments  
+- Automated tax logic  
+- PDF invoices  
+- UPI-based payments  
 
 **Stack:** Python · Streamlit · SQLite  
 
@@ -140,10 +138,10 @@ GST billing system for actual use
 
 ## 🎯 For Recruiters
 
-You’ll like working with me if you want someone who:
+You’ll enjoy working with me if you want someone who:
 - understands frontend **and** backend  
-- thinks before coding  
-- cares about scale & quality  
+- thinks before writing code  
+- cares about quality & scale  
 - stays responsible after deployment  
 
 ---
