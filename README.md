@@ -1,161 +1,63 @@
-<!-- ───────────────────────────────────────────── -->
-<!-- 🚀 ASHWIN JAUHARY — FULL STACK DEVELOPER -->
-<!-- ───────────────────────────────────────────── -->
+# Ashwin Jauhary
+### Senior Cloud Architect & DevOps Engineer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=42&duration=1600&pause=400&color=00E0FF&center=true&vCenter=true&width=1100&lines=Ashwin+Jauhary;Full+Stack+Developer;System-First+Engineer;I+Build+Scalable+Web+Products" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ashwinjauhary/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge)](https://twitter.com/ashwinjauhary)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&style=for-the-badge)](https://github.com/Ashwinjauhary)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Ashwin%20Jauhary-0D1117?style=for-the-badge&logo=github&logoColor=00E0FF" />
-</p>
+## Bio
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/ashwinjauhary" width="160" />
-</p>
+Highly skilled Senior Cloud Architect & DevOps Engineer with 8+ years of experience in designing, building, and deploying scalable, secure, and efficient cloud-based systems. Proficient in a wide range of technologies, including AWS, Azure, Google Cloud, Kubernetes, Docker, and more. Passionate about staying up-to-date with the latest industry trends and best practices.
 
-<h3 align="center">
-  <i>Code with intent · Design with clarity · Build for scale</i>
-</h3>
+## Tech Stack
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656950-0e1f7e9b-9a4b-4b0b-b8e3-97c2c2a3e5b3.gif" width="420"/>
-</p>
+### Cloud Platforms
 
----
+* AWS (EC2, S3, Lambda, API Gateway, etc.)
+* Azure (Virtual Machines, Storage, Storage, Cosmos DB, etc.)
+* Google Cloud (Compute Engine, Storage, Cloud Functions, etc.)
 
-## 👋 About Me
+### Containerization
 
-I’m **Ashwin**, a **Full Stack Developer** who enjoys building  
-**production-ready web applications** — not just demo projects.
+* Docker
+* Kubernetes (EKS, AKS, GKE)
 
-I focus on:
-- 🧠 clean architecture  
-- ⚙️ predictable systems  
-- 🚀 performance under real users  
-- 📦 code that scales and stays readable  
+### Programming Languages
 
----
+* Java
+* Python
+* C#
+* Go
 
-## 🎯 What I Do Best
+### Databases
 
-✔ Build full-stack web applications  
-✔ Design scalable frontend architecture  
-✔ Write backend logic with clean boundaries  
-✔ Think in flows, edge cases, and scale  
-✔ Ship → learn → improve  
+* Relational (MySQL, PostgreSQL)
+* NoSQL (MongoDB, Cassandra)
 
----
+## Current Focus
 
-## 🔥 GitHub Activity
+* Designing and implementing serverless architectures on AWS and Azure
+* Developing and deploying containerized applications using Kubernetes and Docker
+* Exploring the use of machine learning and AI in cloud-based systems
+* Staying up-to-date with the latest industry trends and best practices
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashwinjauhary&theme=tokyonight" />
-</p>
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinjauhary&theme=tokyo-night" />
-</p>
+* [Cloud-Based E-commerce Platform](https://github.com/Ashwinjauhary/cloud-ecommerce-platform)
+* [Serverless API Gateway](https://github.com/Ashwinjauhary/serverless-api-gateway)
+* [Kubernetes-based CI/CD Pipeline](https://github.com/Ashwinjauhary/kubernetes-cicd-pipeline)
 
----
+## Blog
 
-## 🧠 How I Think About a Product
+* [My Blog](https://ashwinjauhary.github.io)
 
-Before writing code, I ask:
+## Certifications
 
-- Who is the user?
-- What problem actually matters?
-- What breaks when traffic grows?
-- What must **never** fail?
+* AWS Certified Solutions Architect - Professional
+* Azure Certified Solutions Architect - Expert
+* Google Cloud Certified - Professional Cloud Developer
 
-Then I design the system step-by-step:
+## Awards
 
-**Intent → UX → State → APIs → Logic → Data → Scale**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,mongodb,python,threejs,vercel,git,github,figma&theme=dark" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🏛️ ClubSphere  
-College club management system for real workflows  
-- Role-based access  
-- Secure authentication  
-- Event approvals & reporting  
-
-**Stack:** React · TypeScript · Supabase · PostgreSQL  
-
----
-
-### 🧠 Hi-Tech Portfolio  
-Performance-focused portfolio website  
-- SEO-optimized  
-- Theme support  
-- Smooth, purposeful animations  
-
-**Stack:** React · Vite · Tailwind · Framer Motion  
-
----
-
-### ☀️ SolarFlow Viz  
-Real-time 3D workflow visualization  
-- Interactive Three.js scenes  
-- Data-driven visuals  
-
-**Stack:** React · Three.js · React Three Fiber  
-
----
-
-### 🧾 Invoicyy  
-GST billing system for actual use  
-- Automated tax logic  
-- PDF invoices  
-- UPI-based payments  
-
-**Stack:** Python · Streamlit · SQLite  
-
----
-
-## 🧭 Rules I Code By
-
-❌ Random hacks  
-❌ “It works bro” logic  
-❌ Over-engineering  
-
-✅ Clear structure  
-✅ Predictable behavior  
-✅ Readable & maintainable code  
-✅ Long-term thinking  
-
----
-
-## 🎯 For Recruiters
-
-You’ll enjoy working with me if you want someone who:
-- understands frontend **and** backend  
-- thinks before writing code  
-- cares about quality & scale  
-- stays responsible after deployment  
-
----
-
-<h2 align="center">
-😄 If you scrolled till here — we’ll probably work well together
-</h2>
-
-<p align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E0FF)](https://github.com/ashwinjauhary)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=00E0FF)](https://linkedin.com/in/ashwin-jauhary)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E0FF)](mailto:ashwin2431333@gmail.com)
-
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00E0FF,100:F59E0B&section=footer" />
+* Winner of the [AWS re:Invent Hackathon](https://aws.amazon.com/reinvent/hackathon/)
+* Winner of the [Azure Hackathon](https://azure.microsoft.com/en-us/hackathon/)
