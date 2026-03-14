@@ -1,63 +1,31 @@
-# Ashwin Jauhary
-### Senior Cloud Architect & DevOps Engineer
+# Atharva Dev1
+### Senior Architect & Software Innovator
+[![Twitter Follow](https://img.shields.io/twitter/follow/atharva_dev1?style=social)](https://twitter.com/atharva_dev1)
+[![GitHub followers](https://img.shields.io/github/followers/atharva-dev1?style=social)](https://github.com/atharva-dev1)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/atharva-dev1)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ashwinjauhary/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge)](https://twitter.com/ashwinjauhary)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&style=for-the-badge)](https://github.com/Ashwinjauhary)
-
-## Bio
-
-Highly skilled Senior Cloud Architect & DevOps Engineer with 8+ years of experience in designing, building, and deploying scalable, secure, and efficient cloud-based systems. Proficient in a wide range of technologies, including AWS, Azure, Google Cloud, Kubernetes, Docker, and more. Passionate about staying up-to-date with the latest industry trends and best practices.
+As a seasoned architect with a passion for innovation, I specialize in designing and implementing scalable, efficient, and maintainable software systems. With a strong focus on quality and best practices, I strive to deliver exceptional solutions that exceed expectations.
 
 ## Tech Stack
-
-### Cloud Platforms
-
-* AWS (EC2, S3, Lambda, API Gateway, etc.)
-* Azure (Virtual Machines, Storage, Storage, Cosmos DB, etc.)
-* Google Cloud (Compute Engine, Storage, Cloud Functions, etc.)
-
-### Containerization
-
-* Docker
-* Kubernetes (EKS, AKS, GKE)
-
-### Programming Languages
-
-* Java
-* Python
-* C#
-* Go
-
-### Databases
-
-* Relational (MySQL, PostgreSQL)
-* NoSQL (MongoDB, Cassandra)
+* Programming languages: Python, TypeScript, JavaScript
+* Frameworks: React, Angular, Vue.js
+* Databases: MySQL, PostgreSQL, MongoDB
+* Cloud platforms: AWS, Azure, Google Cloud
+* Agile methodologies: Scrum, Kanban
 
 ## Current Focus
+* Developing a cloud-native, serverless architecture for a real-time data analytics platform using Python, AWS Lambda, and Apache Kafka
+* Creating a comprehensive TypeScript framework for building scalable and maintainable frontend applications
+* Designing a CSS framework for responsive and accessible UI components
 
-* Designing and implementing serverless architectures on AWS and Azure
-* Developing and deploying containerized applications using Kubernetes and Docker
-* Exploring the use of machine learning and AI in cloud-based systems
-* Staying up-to-date with the latest industry trends and best practices
+## Featured Projects
+* [Real-time Data Analytics Platform](https://github.com/atharva-dev1/real-time-data-analytics) - A cloud-native, serverless architecture for real-time data analytics using Python, AWS Lambda, and Apache Kafka
+* [TypeScript Framework](https://github.com/atharva-dev1/typescript-framework) - A comprehensive TypeScript framework for building scalable and maintainable frontend applications
+* [CSS Framework](https://github.com/atharva-dev1/css-framework) - A CSS framework for responsive and accessible UI components
 
-## Projects
+## Statistics
+[![atharva-dev1's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva-dev1&show_icons=true&theme=dark)](https://github.com/atharva-dev1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-dev1&layout=compact&theme=dark)](https://github.com/atharva-dev1)
 
-* [Cloud-Based E-commerce Platform](https://github.com/Ashwinjauhary/cloud-ecommerce-platform)
-* [Serverless API Gateway](https://github.com/Ashwinjauhary/serverless-api-gateway)
-* [Kubernetes-based CI/CD Pipeline](https://github.com/Ashwinjauhary/kubernetes-cicd-pipeline)
-
-## Blog
-
-* [My Blog](https://ashwinjauhary.github.io)
-
-## Certifications
-
-* AWS Certified Solutions Architect - Professional
-* Azure Certified Solutions Architect - Expert
-* Google Cloud Certified - Professional Cloud Developer
-
-## Awards
-
-* Winner of the [AWS re:Invent Hackathon](https://aws.amazon.com/reinvent/hackathon/)
-* Winner of the [Azure Hackathon](https://azure.microsoft.com/en-us/hackathon/)
+## Let's Connect
+Feel free to reach out to me on [Twitter](https://twitter.com/atharva_dev1) or [LinkedIn](https://www.linkedin.com/in/atharva-dev1) to discuss software architecture, innovation, or collaboration opportunities.
