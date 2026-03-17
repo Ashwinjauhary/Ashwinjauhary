@@ -1,30 +1,122 @@
-# Ashwin Jauhary
-### Senior Architect & Technology Enthusiast
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinjauhary)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashwinjauhary)
+<h1 align="center">⚡ Ashwin Jauhary</h1>
+<h3 align="center">Full Stack Developer • Systems Architect • AI Builder</h3>
 
-As a seasoned senior architect with a passion for innovative technologies, I specialize in designing and implementing scalable, efficient, and reliable systems. With a strong focus on quality, collaboration, and community engagement, I strive to deliver exceptional solutions that exceed expectations.
+<p align="center">
+  🚀 Building Scalable Systems | 🤖 AI-Integrated Platforms | ⚙️ Real-Time Architectures
+</p>
 
-## Tech Stack
-* **Programming Languages:** Java, Python, JavaScript
-* **Cloud Platforms:** AWS, Azure, Google Cloud
-* **Databases:** MySQL, PostgreSQL, MongoDB
-* **Agile Methodologies:** Scrum, Kanban
-* **DevOps Tools:** Jenkins, Docker, Kubernetes
+---
 
-## Current Focus
-* **Project:** Developing a cloud-native, microservices-based architecture for a cutting-edge e-commerce platform
-* **Research:** Exploring the applications of machine learning and artificial intelligence in software development and deployment
-* **Community:** Contributing to open-source projects and collaborating with fellow developers to promote knowledge sharing and growth
+## 🧠 About Me
 
-## Featured Projects
-* [Project 1: E-commerce Platform](https://github.com/ashwinjauhary/project1) - A scalable, cloud-native e-commerce platform built using microservices architecture
-* [Project 2: Machine Learning Model](https://github.com/ashwinjauhary/project2) - A machine learning model for predicting customer behavior and personalizing recommendations
-* [Project 3: DevOps Automation](https://github.com/ashwinjauhary/project3) - A DevOps automation framework for streamlining deployment and monitoring of cloud-based applications
+💡 I'm not just a developer — I design **systems that scale, adapt, and evolve.**
 
-## Statistics
-[![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinjauhary&show_icons=true&theme=dark)](https://github.com/ashwinjauhary)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinjauhary&layout=compact&theme=dark)](https://github.com/ashwinjauhary)
+- 🎓 BCA Student (PSIT Kanpur)
+- 🏢 Managing Director @ Catalyst Crew
+- ⚡ Full Stack Engineer with AI + System Design Focus
+- 🔥 Passionate about building **real-world impactful products**
 
-## Let's Connect
-Feel free to reach out to me on LinkedIn or Twitter to discuss potential collaborations, projects, or just to say hello! I'm always looking to connect with like-minded individuals and explore new opportunities.
+I specialize in:
+- 🧩 System Architecture
+- ⚡ Real-time Applications
+- 🤖 AI Integrations
+- 🗄️ Database Design & Optimization
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 👨‍💻 Languages
+`JavaScript` `TypeScript` `Python` `C` `C++`
+
+### ⚛️ Frontend
+`React.js` `Next.js` `Tailwind CSS` `Framer Motion`
+
+### 🧠 Backend
+`Node.js` `Express.js` `REST APIs` `JWT Auth`
+
+### 🗄️ Databases
+`PostgreSQL` `MongoDB` `Supabase` `SQLite`
+
+### ⚙️ Dev Tools
+`Git` `GitHub` `Linux` `Vercel` `Render` `Figma`
+
+### 🤖 AI Stack
+`Gemini API` `Prompt Engineering` `Multi-AI Systems`
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 DevRoast AI
+> AI-powered developer analysis engine
+
+- 🧠 Multi-AI (Groq + Gemini + SambaNova)
+- 📊 GitHub profile analysis
+- 📄 AI Resume & Portfolio Generator
+
+---
+
+### 💬 BondSpace
+> Encrypted real-time communication platform
+
+- 🔒 End-to-End Encryption
+- ⚡ Socket.IO real-time system
+- 🎮 Gamification + Mini Games
+
+---
+
+### 🏫 ClubSphere
+> College ecosystem management platform
+
+- 🧩 Role-based system (RBAC)
+- 📅 Event workflows + approvals
+- 📊 AI Reports & Analytics
+
+---
+
+### 🌐 More Live Projects
+
+- 🚀 Portfolio Website  
+- 🏢 Catalyst Crew Website  
+- 📊 SolarFlow Viz (3D System)  
+- 🧾 Invoicyy (GST Billing System)  
+- 📝 Notely (Premium Notes App)
+
+---
+
+## 🧠 What Makes Me Different
+
+✔️ I think in **systems, not just code**  
+✔️ I build **production-ready architectures**  
+✔️ I combine **AI + Software Engineering**  
+✔️ I focus on **performance, scalability, and UX**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinjauhary&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/ashwin-jauhary
+- 💻 GitHub: https://github.com/Ashwinjauhary
+- 📧 Email: ashwin2431333@gmail.com
+
+---
+
+## ⚡ Philosophy
+
+> “I don't just build apps. I engineer systems that people depend on.”
+
+---
+
+<p align="center">
+🔥 If you're building something crazy — let's collaborate 🔥
+</p>
