@@ -1,122 +1,223 @@
-<h1 align="center">⚡ Ashwin Jauhary</h1>
-<h3 align="center">Full Stack Developer • Systems Architect • AI Builder</h3>
+<div align="center">
 
-<p align="center">
-  🚀 Building Scalable Systems | 🤖 AI-Integrated Platforms | ⚙️ Real-Time Architectures
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060c14,50:0a1628,100:00f5d4&height=220&section=header&text=ASHWIN%20JAUHARY&fontSize=64&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20AI%20Engineer&descAlignY=58&descSize=15&descColor=8899aa"/>
 
----
+</div>
 
-## 🧠 About Me
+<div align="center">
 
-💡 I'm not just a developer — I design **systems that scale, adapt, and evolve.**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=620&lines=Think+in+systems.+Build+for+scale.+Ship+for+impact.;Managing+Director+%40+Catalyst+Crew;BCA+%40+PSIT+Kanpur+%7C+AI+%2B+Full+Stack+%2B+Real-Time;Building+products+used+by+millions...)](https://github.com/Ashwinjauhary)
 
-- 🎓 BCA Student (PSIT Kanpur)
-- 🏢 Managing Director @ Catalyst Crew
-- ⚡ Full Stack Engineer with AI + System Design Focus
-- 🔥 Passionate about building **real-world impactful products**
+</div>
 
-I specialize in:
-- 🧩 System Architecture
-- ⚡ Real-time Applications
-- 🤖 AI Integrations
-- 🗄️ Database Design & Optimization
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=00f5d4)](https://linkedin.com/in/ashwin-jauhary)
+[![GitHub](https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=00f5d4)](https://github.com/Ashwinjauhary)
+[![Email](https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=00f5d4)](mailto:ashwin2431333@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ashwinjauhary&label=Profile+Views&color=00f5d4&style=for-the-badge)](https://github.com/Ashwinjauhary)
 
-## 🛠️ Tech Arsenal
+</div>
 
-### 👨‍💻 Languages
-`JavaScript` `TypeScript` `Python` `C` `C++`
+<br/>
 
-### ⚛️ Frontend
-`React.js` `Next.js` `Tailwind CSS` `Framer Motion`
+```ts
+const ashwin: Developer = {
+  role    : "Full Stack Engineer + Systems Architect",
+  company : "Managing Director @ Catalyst Crew",
+  college : "BCA Student @ PSIT Kanpur",
+  focus   : ["AI Integration", "Real-Time Systems", "Scalable Architecture"],
+  mantra  : "Think in systems. Build for scale. Ship for impact.",
+  goal    : "Products used by millions"
+};
+```
 
-### 🧠 Backend
-`Node.js` `Express.js` `REST APIs` `JWT Auth`
-
-### 🗄️ Databases
-`PostgreSQL` `MongoDB` `Supabase` `SQLite`
-
-### ⚙️ Dev Tools
-`Git` `GitHub` `Linux` `Vercel` `Render` `Figma`
-
-### 🤖 AI Stack
-`Gemini API` `Prompt Engineering` `Multi-AI Systems`
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Tech Arsenal
 
-### 🔥 DevRoast AI
-> AI-powered developer analysis engine
+<div align="center">
 
-- 🧠 Multi-AI (Groq + Gemini + SambaNova)
-- 📊 GitHub profile analysis
-- 📄 AI Resume & Portfolio Generator
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-060c14?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-060c14?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-060c14?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C%2B%2B-060c14?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-060c14?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-060c14?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-060c14?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-060c14?style=for-the-badge&logo=framer&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-060c14?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-060c14?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-060c14?style=for-the-badge&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-060c14?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-060c14?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/Supabase-060c14?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+
+**AI Stack**
+
+![Gemini](https://img.shields.io/badge/Gemini_API-060c14?style=for-the-badge&logo=google&logoColor=4285F4)
+![Groq](https://img.shields.io/badge/Groq-060c14?style=for-the-badge&logo=groq&logoColor=00f5d4)
+![SambaNova](https://img.shields.io/badge/SambaNova-060c14?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-060c14?style=for-the-badge&logo=openai&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-060c14?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-060c14?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-060c14?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-060c14?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-060c14?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+</div>
 
 ---
+
+## 🚀 Flagship Systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 DevRoast AI
+**Multi-AI developer analysis engine**
+
+> Groq + Gemini + SambaNova — simultaneously
+
+- 🔍 Deep GitHub profile intelligence
+- 📄 Automated career insight reports
+- 🎯 AI Resume + Portfolio Generator
+- 📊 Developer skill scorecards
+
+![](https://img.shields.io/badge/Multi--AI-9b5de5?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/GitHub_API-00f5d4?style=flat-square&logoColor=black)
+![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### 💬 BondSpace
-> Encrypted real-time communication platform
+**Encrypted real-time communication ecosystem**
 
-- 🔒 End-to-End Encryption
-- ⚡ Socket.IO real-time system
-- 🎮 Gamification + Mini Games
+> E2E encrypted · Socket.IO infrastructure
 
----
+- 🔐 End-to-end encryption on all channels
+- 📍 Live location sharing system
+- 🎮 Gamification + embedded mini-games
+- ⚡ Real-time presence & typing indicators
+
+![](https://img.shields.io/badge/Socket.IO-white?style=flat-square&logoColor=black)
+![](https://img.shields.io/badge/E2E_Encrypted-00f5d4?style=flat-square&logoColor=black)
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏫 ClubSphere
-> College ecosystem management platform
+**Complete campus operating system**
 
-- 🧩 Role-based system (RBAC)
-- 📅 Event workflows + approvals
-- 📊 AI Reports & Analytics
+> One platform. Entire college ecosystem.
 
----
+- 🔑 Role-based access control (RBAC)
+- 📋 Event workflows + approval chains
+- 📱 QR attendance system
+- 🤖 AI-generated analytics reports
+
+![](https://img.shields.io/badge/RBAC-9b5de5?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/AI_Analytics-00f5d4?style=flat-square&logoColor=black)
+![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 More Live Projects
 
-- 🚀 Portfolio Website  
-- 🏢 Catalyst Crew Website  
-- 📊 SolarFlow Viz (3D System)  
-- 🧾 Invoicyy (GST Billing System)  
-- 📝 Notely (Premium Notes App)
+```
+🚀  Portfolio System
+    Personal dev portfolio + ecosystem
+
+🪐  SolarFlow Viz
+    3D solar system visualization
+
+🧾  Invoicyy
+    GST billing & invoice system
+
+📝  Notely
+    Premium notes application
+
+🏢  Catalyst Crew Platform
+    Company website & ecosystem
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 What Makes Me Different
+## 🧠 Architecture Mindset
 
-✔️ I think in **systems, not just code**  
-✔️ I build **production-ready architectures**  
-✔️ I combine **AI + Software Engineering**  
-✔️ I focus on **performance, scalability, and UX**
+```
+  THINKING LAYER                EXECUTION LAYER
+  ─────────────────────         ─────────────────────
+  System Design First      →    Full Stack Ownership
+  Scalability > Shortcuts  →    Production-Ready Code
+  Performance Focus        →    API + DB Optimization
+  Clean Architecture       →    Real-Time Systems
+  AI-First Thinking        →    Intelligent Products
+```
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinjauhary&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060c14&title_color=00f5d4&icon_color=9b5de5&text_color=f0f0f0&ring_color=00f5d4&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinjauhary&theme=tokyonight&hide_border=true&background=060c14&ring=00f5d4&fire=9b5de5&currStreakLabel=00f5d4&sideLabels=8899aa&dates=8899aa"/>
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinjauhary&layout=donut&theme=tokyonight&hide_border=true&bg_color=060c14&title_color=00f5d4&text_color=8899aa"/>
+
+</div>
 
 ---
 
-## 🌍 Connect With Me
+## 📈 Activity Graph
 
-- 💼 LinkedIn: https://linkedin.com/in/ashwin-jauhary
-- 💻 GitHub: https://github.com/Ashwinjauhary
-- 📧 Email: ashwin2431333@gmail.com
+<div align="center">
 
----
+[![Ashwin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashwinjauhary&bg_color=060c14&color=00f5d4&line=9b5de5&point=00f5d4&area=true&hide_border=true)](https://github.com/Ashwinjauhary)
 
-## ⚡ Philosophy
-
-> “I don't just build apps. I engineer systems that people depend on.”
+</div>
 
 ---
 
-<p align="center">
-🔥 If you're building something crazy — let's collaborate 🔥
-</p>
+<div align="center">
+
+### *"While others write features, I engineer systems."*
+
+<br/>
+
+🔥 **Building something ambitious? Let's collaborate**
+
+[![Email](https://img.shields.io/badge/ashwin2431333%40gmail.com-060c14?style=for-the-badge&logo=gmail&logoColor=00f5d4)](mailto:ashwin2431333@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-060c14?style=for-the-badge&logo=linkedin&logoColor=00f5d4)](https://linkedin.com/in/ashwin-jauhary)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:0a1628,100:060c14&height=120&section=footer&animation=fadeIn"/>
+
+</div>
