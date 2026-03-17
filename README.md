@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060c14,50:0a1628,100:00f5d4&height=220&section=header&text=ASHWIN%20JAUHARY&fontSize=64&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20AI%20Engineer&descAlignY=58&descSize=15&descColor=8899aa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060c14,50:1a0a2e,100:9b5de5&height=220&section=header&text=ASHWIN%20JAUHARY&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20AI%20Engineer&descAlignY=58&descSize=15&descColor=8899aa"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=620&lines=Think+in+systems.+Build+for+scale.+Ship+for+impact.;Managing+Director+%40+Catalyst+Crew;BCA+%40+PSIT+Kanpur+%7C+AI+%2B+Full+Stack+%2B+Real-Time;Building+products+used+by+millions...)](https://github.com/Ashwinjauhary)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=2800&pause=900&color=9b5de5&center=true&vCenter=true&width=620&lines=Think+in+systems.+Build+for+scale.+Ship+for+impact.;Managing+Director+%40+Catalyst+Crew;BCA+%40+PSIT+Kanpur+%7C+AI+%2B+Full+Stack+%2B+Real-Time;Building+products+used+by+millions...)](https://github.com/Ashwinjauhary)
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=00f5d4)](https://linkedin.com/in/ashwin-jauhary)
-[![GitHub](https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=00f5d4)](https://github.com/Ashwinjauhary)
-[![Email](https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=00f5d4)](mailto:ashwin2431333@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ashwinjauhary&label=Profile+Views&color=00f5d4&style=for-the-badge)](https://github.com/Ashwinjauhary)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=9b5de5)](https://linkedin.com/in/ashwin-jauhary)
+[![GitHub](https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=9b5de5)](https://github.com/Ashwinjauhary)
+[![Email](https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=9b5de5)](mailto:ashwin2431333@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ashwinjauhary&label=Profile+Views&color=9b5de5&style=for-the-badge)](https://github.com/Ashwinjauhary)
 
 </div>
 
@@ -99,7 +99,7 @@ const ashwin: Developer = {
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark&perline=4)](https://skillicons.dev)
 
 ![Gemini](https://img.shields.io/badge/Gemini_API-060c14?style=flat-square&logo=google&logoColor=4285F4)
-![Groq](https://img.shields.io/badge/Groq-060c14?style=flat-square&logoColor=00f5d4)
+![Groq](https://img.shields.io/badge/Groq-060c14?style=flat-square&logoColor=9b5de5)
 ![SambaNova](https://img.shields.io/badge/SambaNova-060c14?style=flat-square&logoColor=white)
 ![Prompt Eng.](https://img.shields.io/badge/Prompt_Engineering-060c14?style=flat-square&logo=openai&logoColor=white)
 
@@ -141,7 +141,7 @@ const ashwin: Developer = {
 - 📊 Developer skill scorecards
 
 ![](https://img.shields.io/badge/Multi--AI-9b5de5?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/GitHub_API-00f5d4?style=flat-square&logoColor=black)
+![](https://img.shields.io/badge/GitHub_API-7b3fe4?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logoColor=white)
 
 </td>
@@ -158,7 +158,7 @@ const ashwin: Developer = {
 - ⚡ Real-time presence & typing indicators
 
 ![](https://img.shields.io/badge/Socket.IO-white?style=flat-square&logoColor=black)
-![](https://img.shields.io/badge/E2E_Encrypted-00f5d4?style=flat-square&logoColor=black)
+![](https://img.shields.io/badge/E2E_Encrypted-9b5de5?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logoColor=black)
 
 </td>
@@ -177,7 +177,7 @@ const ashwin: Developer = {
 - 🤖 AI-generated analytics reports
 
 ![](https://img.shields.io/badge/RBAC-9b5de5?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/AI_Analytics-00f5d4?style=flat-square&logoColor=black)
+![](https://img.shields.io/badge/AI_Analytics-7b3fe4?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logoColor=white)
 
 </td>
@@ -226,12 +226,12 @@ const ashwin: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060c14&title_color=00f5d4&icon_color=9b5de5&text_color=f0f0f0&ring_color=00f5d4&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinjauhary&theme=tokyonight&hide_border=true&background=060c14&ring=00f5d4&fire=9b5de5&currStreakLabel=00f5d4&sideLabels=8899aa&dates=8899aa"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060c14&title_color=9b5de5&icon_color=9b5de5&text_color=f0f0f0&ring_color=9b5de5&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinjauhary&theme=tokyonight&hide_border=true&background=060c14&ring=9b5de5&fire=c49bff&currStreakLabel=9b5de5&sideLabels=8899aa&dates=8899aa"/>
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinjauhary&layout=donut&theme=tokyonight&hide_border=true&bg_color=060c14&title_color=00f5d4&text_color=8899aa"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinjauhary&layout=donut&theme=tokyonight&hide_border=true&bg_color=060c14&title_color=9b5de5&text_color=8899aa"/>
 
 </div>
 
@@ -241,7 +241,7 @@ const ashwin: Developer = {
 
 <div align="center">
 
-[![Ashwin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashwinjauhary&bg_color=060c14&color=00f5d4&line=9b5de5&point=00f5d4&area=true&hide_border=true)](https://github.com/Ashwinjauhary)
+[![Ashwin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashwinjauhary&bg_color=060c14&color=9b5de5&line=7b3fe4&point=c49bff&area=true&hide_border=true)](https://github.com/Ashwinjauhary)
 
 </div>
 
@@ -255,11 +255,11 @@ const ashwin: Developer = {
 
 🔥 **Building something ambitious? Let's collaborate**
 
-[![Email](https://img.shields.io/badge/ashwin2431333%40gmail.com-060c14?style=for-the-badge&logo=gmail&logoColor=00f5d4)](mailto:ashwin2431333@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-060c14?style=for-the-badge&logo=linkedin&logoColor=00f5d4)](https://linkedin.com/in/ashwin-jauhary)
+[![Email](https://img.shields.io/badge/ashwin2431333%40gmail.com-060c14?style=for-the-badge&logo=gmail&logoColor=9b5de5)](mailto:ashwin2431333@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-060c14?style=for-the-badge&logo=linkedin&logoColor=9b5de5)](https://linkedin.com/in/ashwin-jauhary)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:0a1628,100:060c14&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b5de5,50:1a0a2e,100:060c14&height=120&section=footer&animation=fadeIn"/>
 
 </div>
