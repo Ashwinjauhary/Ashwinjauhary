@@ -40,43 +40,85 @@ const ashwin: Developer = {
 
 <div align="center">
 
-**Languages**
+<table>
+<tr><td align="center" width="100%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-060c14?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-060c14?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-060c14?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C%2B%2B-060c14?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+**◈ Languages**
 
-**Frontend**
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark&perline=8)](https://skillicons.dev)
 
-![React](https://img.shields.io/badge/React-060c14?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-060c14?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-060c14?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-060c14?style=for-the-badge&logo=framer&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-060c14?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-060c14?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-060c14?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C%2B%2B-060c14?style=flat-square&logo=cplusplus&logoColor=00599C)
 
-**Backend & Data**
+</td></tr>
+</table>
 
-![Node.js](https://img.shields.io/badge/Node.js-060c14?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-060c14?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-060c14?style=for-the-badge&logo=socketdotio&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-060c14?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-060c14?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Supabase](https://img.shields.io/badge/Supabase-060c14?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+<br/>
 
-**AI Stack**
+<table>
+<tr>
+<td align="center" width="50%">
 
-![Gemini](https://img.shields.io/badge/Gemini_API-060c14?style=for-the-badge&logo=google&logoColor=4285F4)
-![Groq](https://img.shields.io/badge/Groq-060c14?style=for-the-badge&logo=groq&logoColor=00f5d4)
-![SambaNova](https://img.shields.io/badge/SambaNova-060c14?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-060c14?style=for-the-badge&logo=openai&logoColor=white)
+**◈ Frontend**
 
-**DevOps & Tools**
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,framer&theme=dark&perline=4)](https://skillicons.dev)
 
-![Git](https://img.shields.io/badge/Git-060c14?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-060c14?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-060c14?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-060c14?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-060c14?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![React](https://img.shields.io/badge/React-060c14?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-060c14?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind-060c14?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+![Framer](https://img.shields.io/badge/Framer_Motion-060c14?style=flat-square&logo=framer&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+**◈ Backend & Data**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark&perline=4)](https://skillicons.dev)
+
+![Node.js](https://img.shields.io/badge/Node.js-060c14?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-060c14?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-060c14?style=flat-square&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-060c14?style=flat-square&logo=mongodb&logoColor=47A248)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-060c14?style=flat-square&logo=socketdotio&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-060c14?style=flat-square&logo=supabase&logoColor=3ECF8E)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**◈ AI Stack**
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark&perline=4)](https://skillicons.dev)
+
+![Gemini](https://img.shields.io/badge/Gemini_API-060c14?style=flat-square&logo=google&logoColor=4285F4)
+![Groq](https://img.shields.io/badge/Groq-060c14?style=flat-square&logoColor=00f5d4)
+![SambaNova](https://img.shields.io/badge/SambaNova-060c14?style=flat-square&logoColor=white)
+![Prompt Eng.](https://img.shields.io/badge/Prompt_Engineering-060c14?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+**◈ DevOps & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,linux,docker,vercel,figma&theme=dark&perline=5)](https://skillicons.dev)
+
+![Git](https://img.shields.io/badge/Git-060c14?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-060c14?style=flat-square&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-060c14?style=flat-square&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-060c14?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-060c14?style=flat-square&logo=figma&logoColor=F24E1E)
+
+</td>
+</tr>
+</table>
 
 </div>
 
