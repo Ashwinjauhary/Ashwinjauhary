@@ -4,12 +4,10 @@ const fs = require('fs');
 const USERNAME = process.env.GITHUB_USERNAME || 'Ashwinjauhary';
 const TOKEN = process.env.GITHUB_TOKEN;
 
-// Current year ONLY — always dynamic
-const year = new Date().getFullYear();
+// 2025 hardcoded
+const year = 2025;
 const FROM = `${year}-01-01T00:00:00Z`;
-const TO   = new Date() < new Date(`${year}-12-31T23:59:59Z`)
-  ? new Date().toISOString()          // up to today if year not done
-  : `${year}-12-31T23:59:59Z`;
+const TO   = `${year}-12-31T23:59:59Z`;
 
 const query = `query($username: String!, $from: DateTime!, $to: DateTime!) {
   user(login: $username) {
@@ -42,10 +40,7 @@ function fetchContributions() {
       res.on('data', c => data += c);
       res.on('end', () => {
         const parsed = JSON.parse(data);
-        if (parsed.errors) {
-          console.error('GraphQL errors:', JSON.stringify(parsed.errors));
-          process.exit(1);
-        }
+        if (parsed.errors) { console.error('GraphQL errors:', JSON.stringify(parsed.errors)); process.exit(1); }
         resolve(parsed);
       });
     });
@@ -64,17 +59,8 @@ function getColor(n) {
 }
 
 function generateSVG(weeksRaw) {
-  // ── Remove trailing all-zero weeks (future dates) ─────────────
-  let weeks = [...weeksRaw];
-  while (weeks.length > 0 && weeks[weeks.length - 1].contributionDays.every(d => d.contributionCount === 0)) {
-    weeks.pop();
-  }
-  // Also remove leading all-zero weeks
-  while (weeks.length > 0 && weeks[0].contributionDays.every(d => d.contributionCount === 0)) {
-    weeks.shift();
-  }
-
-  console.log(`📅 Year: ${year} | Weeks with data: ${weeks.length} | Range: ${FROM} → ${TO}`);
+  const weeks = [...weeksRaw];
+  console.log(`📅 Year: ${year} | Total weeks: ${weeks.length}`);
 
   const cs = 11, gap = 2, step = cs + gap;
   const cols = weeks.length, rows = 7;
@@ -82,7 +68,6 @@ function generateSVG(weeksRaw) {
   const W = cols * step + pl * 2;
   const H = rows * step + pt + 20;
 
-  // Invader pixel art 11×8
   const invPixels = [
     [0,0,1,0,0,0,0,0,1,0,0],
     [0,0,0,1,0,0,0,1,0,0,0],
@@ -96,14 +81,13 @@ function generateSVG(weeksRaw) {
   const ps = 2;
   const iw = 11 * ps;
   const ih = 8  * ps;
-  const invY = 4; // fixed at top
+  const invY = 4;
 
   const invaderShape = invPixels
     .map((row, ry) => row.map((px, rx) =>
       px ? `<rect x="${rx*ps}" y="${ry*ps}" width="${ps}" height="${ps}"/>` : ''
     ).join('')).join('');
 
-  // Build cells
   const cells = [];
   weeks.forEach((week, col) => {
     week.contributionDays.forEach((day, row) => {
@@ -117,10 +101,8 @@ function generateSVG(weeksRaw) {
 
   const N = active.length || 1;
   const totalDur = 40;
-
   console.log(`✅ Active (green) cells: ${N}`);
 
-  // Grid
   const gridSVG = cells.map(cell => {
     const idx = active.indexOf(cell);
     if (idx === -1)
@@ -132,7 +114,6 @@ function generateSVG(weeksRaw) {
     </rect>`;
   }).join('\n  ');
 
-  // Invader horizontal movement (top fixed)
   const invTranslates = active
     .map(c => `${c.x + Math.floor(cs/2) - Math.floor(iw/2)},${invY}`)
     .join(';');
@@ -140,7 +121,6 @@ function generateSVG(weeksRaw) {
     .map((_, i) => (N > 1 ? i/(N-1) : 0).toFixed(5))
     .join(';');
 
-  // Lasers
   const lasersSVG = active.map((cell, idx) => {
     const cx     = cell.x + Math.floor(cs/2);
     const yTop   = invY + ih + 2;
@@ -154,7 +134,6 @@ function generateSVG(weeksRaw) {
     </line>`;
   }).join('\n  ');
 
-  // Sparks
   const sparksSVG = active.map((cell, idx) => {
     const cx   = cell.x + Math.floor(cs/2);
     const cy   = cell.y + Math.floor(cs/2);
@@ -170,12 +149,8 @@ function generateSVG(weeksRaw) {
       ).join('');
   }).join('\n  ');
 
-  const yearLabel = `<text x="${W-pl}" y="${H-6}" text-anchor="end" font-family="monospace" font-size="10" fill="#8899aa">${year} contributions</text>`;
-
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
   <rect width="${W}" height="${H}" fill="#060c14" rx="8"/>
-
-  <!-- Starfield -->
   ${Array.from({length:40},(_,i)=>{
     const sx=Math.floor((i*137.5)%W);
     const sy=Math.floor((i*97.3)%(pt-14))+4;
@@ -184,36 +159,23 @@ function generateSVG(weeksRaw) {
       <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="${dl}s" repeatCount="indefinite"/>
     </circle>`;
   }).join('')}
-
-  <!-- Space Invader -->
   <g fill="#9b5de5">
     <animateTransform attributeName="transform" type="translate"
-      values="${invTranslates}"
-      keyTimes="${invKeyTimes}"
-      dur="${totalDur}s"
-      repeatCount="indefinite"
-      calcMode="discrete"/>
+      values="${invTranslates}" keyTimes="${invKeyTimes}"
+      dur="${totalDur}s" repeatCount="indefinite" calcMode="discrete"/>
     ${invaderShape}
   </g>
-
-  <!-- Lasers -->
   ${lasersSVG}
-
-  <!-- Sparks -->
   ${sparksSVG}
-
-  <!-- Grid -->
   ${gridSVG}
-
-  ${yearLabel}
+  <text x="${W-pl}" y="${H-6}" text-anchor="end" font-family="monospace" font-size="10" fill="#8899aa">${year} contributions</text>
 </svg>`;
 }
 
 async function main() {
-  console.log(`🚀 Fetching contributions for ${USERNAME} | ${year}`);
+  console.log(`🚀 Fetching ${year} contributions for ${USERNAME}`);
   const result = await fetchContributions();
   const weeks = result.data.user.contributionsCollection.contributionCalendar.weeks;
-  console.log(`📦 Total weeks returned by API: ${weeks.length}`);
   const svg = generateSVG(weeks);
   fs.mkdirSync('dist', { recursive: true });
   fs.writeFileSync('dist/space-invaders.svg', svg);
