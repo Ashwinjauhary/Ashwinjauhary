@@ -126,6 +126,8 @@ const ashwin: Developer = {
 
 ## 🚀 Flagship Systems
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -205,6 +207,8 @@ const ashwin: Developer = {
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
