@@ -251,6 +251,16 @@ const ashwin: Developer = {
 
 ---
 
+## 👾 Space Invaders — Destroying My Contributions
+
+<div align="center">
+
+<img src="https://github.com/Ashwinjauhary/Ashwinjauhary/blob/output/space-invaders.svg" alt="Space Invaders eating contribution graph" />
+
+</div>
+
+---
+
 <div align="center">
 
 ### *"While others write features, I engineer systems."*
