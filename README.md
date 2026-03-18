@@ -21,6 +21,16 @@
 
 <br/>
 
+## 👾 Space Invaders — Destroying My Contributions
+
+<div align="center">
+
+<img src="https://github.com/Ashwinjauhary/Ashwinjauhary/blob/output/space-invaders.svg" alt="Space Invaders eating contribution graph" />
+
+</div>
+
+---
+
 ```ts
 const ashwin: Developer = {
   role    : "Full Stack Engineer + Systems Architect",
@@ -246,16 +256,6 @@ const ashwin: Developer = {
 <div align="center">
 
 [![Ashwin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashwinjauhary&bg_color=060c14&color=9b5de5&line=7b3fe4&point=c49bff&area=true&hide_border=true)](https://github.com/Ashwinjauhary)
-
-</div>
-
----
-
-## 👾 Space Invaders — Destroying My Contributions
-
-<div align="center">
-
-<img src="https://github.com/Ashwinjauhary/Ashwinjauhary/blob/output/space-invaders.svg" alt="Space Invaders eating contribution graph" />
 
 </div>
 
