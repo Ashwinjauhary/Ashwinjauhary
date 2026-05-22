@@ -21,6 +21,37 @@
 
 <br/>
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ashwinjauhary&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎖️ Achievements & Badges
+
+<div align="center">
+
+| 🏅 Badge | 📋 Achievement | 🔥 Level |
+|:---:|:---|:---:|
+| ![MultiAI](https://img.shields.io/badge/Multi--AI_Architect-9b5de5?style=flat-square&logo=openai&logoColor=white) | Built engine using Groq + Gemini + SambaNova simultaneously | `Elite` |
+| ![E2E](https://img.shields.io/badge/E2E_Encryption_Expert-7b3fe4?style=flat-square&logo=letsencrypt&logoColor=white) | Implemented full end-to-end encryption in BondSpace | `Advanced` |
+| ![RBAC](https://img.shields.io/badge/RBAC_Systems_Builder-c49bff?style=flat-square&logo=auth0&logoColor=white) | Designed Role-Based Access Control for ClubSphere | `Advanced` |
+| ![RealTime](https://img.shields.io/badge/Real--Time_Systems-00d4aa?style=flat-square&logo=socketdotio&logoColor=white) | Built live presence, typing indicators & location sharing | `Elite` |
+| ![OSS](https://img.shields.io/badge/Open_Source_Contributor-f7c948?style=flat-square&logo=github&logoColor=black) | Active open source projects & community contributions | `Active` |
+| ![Director](https://img.shields.io/badge/Managing_Director-ff6b6b?style=flat-square&logo=google-meet&logoColor=white) | Managing Director @ Catalyst Crew | `Leader` |
+| ![FullStack](https://img.shields.io/badge/Full_Stack_Ownership-61DAFB?style=flat-square&logo=react&logoColor=black) | End-to-end product development from design to deploy | `Expert` |
+| ![AIFirst](https://img.shields.io/badge/AI--First_Builder-4285F4?style=flat-square&logo=google&logoColor=white) | Ships intelligent, AI-integrated products | `Expert` |
+
+</div>
+
+---
+
 ## 👾 Space Invaders — Destroying My Contributions
 
 <div align="center">
@@ -41,8 +72,6 @@ const ashwin: Developer = {
   goal    : "Products used by millions"
 };
 ```
-
-<br/>
 
 ---
 
@@ -251,11 +280,59 @@ const ashwin: Developer = {
 
 ---
 
+## 🏅 GitHub Achievement Showcase
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ashwinjauhary&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 📈 Activity Graph
 
 <div align="center">
 
 [![Ashwin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashwinjauhary&bg_color=060c14&color=9b5de5&line=7b3fe4&point=c49bff&area=true&hide_border=true)](https://github.com/Ashwinjauhary)
+
+</div>
+
+---
+
+## 🌟 Skill Proficiency
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-95%25-9b5de5?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-90%25-7b3fe4?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-88%25-c49bff?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-85%25-9b5de5?style=for-the-badge&logo=postgresql&logoColor=white)
+![AI%20Integration](https://img.shields.io/badge/AI%20Integration-92%25-7b3fe4?style=for-the-badge&logo=openai&logoColor=white)
+![System%20Design](https://img.shields.io/badge/System%20Design-88%25-c49bff?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Open For
+
+<div align="center">
+
+![Freelance](https://img.shields.io/badge/💼_Freelance_Projects-Available-9b5de5?style=for-the-badge)
+![Collab](https://img.shields.io/badge/🤝_Open_Source_Collab-Open-7b3fe4?style=for-the-badge)
+![Internship](https://img.shields.io/badge/🎯_Internships-Exploring-c49bff?style=for-the-badge)
+![Mentorship](https://img.shields.io/badge/🧠_Tech_Mentorship-Giving-9b5de5?style=for-the-badge)
+
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=While+others+write+features%2C+I+engineer+systems.&author=Ashwin+Jauhary)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
