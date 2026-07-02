@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=2800&pause=900&color=9b5de5&center=true&vCenter=true&width=620&lines=Think+in+systems.+Build+for+scale.+Ship+for+impact.;Managing+Director+%40+Catalyst+Crew;BCA+%40+PSIT+Kanpur+%7C+AI+%2B+Full+Stack+%2B+Real-Time;Building+products+used+by+millions...)](https://github.com/Ashwinjauhary)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2800&pause=900&color=9b5de5&center=true&vCenter=true&width=620&lines=Think+in+systems.+Build+for+scale.+Ship+for+impact.;Managing+Director+%40+Catalyst+Crew;BCA+%40+PSIT+Kanpur+%7C+AI+%2B+Full+Stack+%2B+Real-Time;Building+products+used+by+millions...)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,7 +44,7 @@
 | ![RBAC](https://img.shields.io/badge/RBAC_Systems_Builder-c49bff?style=flat-square&logo=auth0&logoColor=white) | Designed Role-Based Access Control for ClubSphere | `Advanced` |
 | ![RealTime](https://img.shields.io/badge/Real--Time_Systems-00d4aa?style=flat-square&logo=socketdotio&logoColor=white) | Built live presence, typing indicators & location sharing | `Elite` |
 | ![OSS](https://img.shields.io/badge/Open_Source_Contributor-f7c948?style=flat-square&logo=github&logoColor=black) | Active open source projects & community contributions | `Active` |
-| ![Director](https://img.shields.io/badge/Managing_Director-ff6b6b?style=flat-square&logo=google-meet&logoColor=white) | Managing Director @ Catalyst Crew | `Leader` |
+| ![Director](https://img.shields.io/badge/Managing_Director-ff6b6b?style=flat-square&logo=googlemeet&logoColor=white) | Managing Director @ Catalyst Crew | `Leader` |
 | ![FullStack](https://img.shields.io/badge/Full_Stack_Ownership-61DAFB?style=flat-square&logo=react&logoColor=black) | End-to-end product development from design to deploy | `Expert` |
 | ![AIFirst](https://img.shields.io/badge/AI--First_Builder-4285F4?style=flat-square&logo=google&logoColor=white) | Ships intelligent, AI-integrated products | `Expert` |
 
@@ -269,8 +269,8 @@ const ashwin: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060c14&title_color=9b5de5&icon_color=9b5de5&text_color=f0f0f0&ring_color=9b5de5&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinjauhary&theme=tokyonight&hide_border=true&background=060c14&ring=9b5de5&fire=c49bff&currStreakLabel=9b5de5&sideLabels=8899aa&dates=8899aa"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060c14&title_color=9b5de5&icon_color=9b5de5&text_color=f0f0f0&ring_color=9b5de5"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Ashwinjauhary&theme=tokyonight&hide_border=true&background=060c14&ring=9b5de5&fire=c49bff&currStreakLabel=9b5de5&sideLabels=8899aa&dates=8899aa"/>
 
 <br/><br/>
 
