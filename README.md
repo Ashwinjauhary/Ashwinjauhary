@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ashwinjauhary&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-git-master-ashwin-jauharys-projects.vercel.app/?username=Ashwinjauhary&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -269,12 +269,12 @@ const ashwin: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060c14&title_color=9b5de5&icon_color=9b5de5&text_color=f0f0f0&ring_color=9b5de5"/>
+<img width="49%" src="https://github-readme-stats-ub2n.vercel.app/api?username=Ashwinjauhary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060c14&title_color=9b5de5&icon_color=9b5de5&text_color=f0f0f0&ring_color=9b5de5"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=Ashwinjauhary&theme=tokyonight&hide_border=true&background=060c14&ring=9b5de5&fire=c49bff&currStreakLabel=9b5de5&sideLabels=8899aa&dates=8899aa"/>
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinjauhary&layout=donut&theme=tokyonight&hide_border=true&bg_color=060c14&title_color=9b5de5&text_color=8899aa"/>
+<img width="42%" src="https://github-readme-stats-ub2n.vercel.app/api/top-langs/?username=Ashwinjauhary&layout=donut&theme=tokyonight&hide_border=true&bg_color=060c14&title_color=9b5de5&text_color=8899aa"/>
 
 </div>
 
@@ -284,7 +284,7 @@ const ashwin: Developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ashwinjauhary&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-git-master-ashwin-jauharys-projects.vercel.app/?username=Ashwinjauhary&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
